@@ -1,0 +1,5308 @@
+1
+00:00:00,000 --> 00:00:17,540
+Bueno, siendo las diez y un
+
+2
+00:00:17,540 --> 00:00:18,880
+minutos de la mañana del lunes
+
+3
+00:00:18,880 --> 00:00:20,380
+veinticinco de noviembre del
+
+4
+00:00:20,380 --> 00:00:21,380
+año dos mil veinticuatro, el
+
+5
+00:00:21,380 --> 00:00:22,380
+juzgado primero laboral de
+
+6
+00:00:22,380 --> 00:00:23,380
+circuito de la ciudad de Tunja
+
+7
+00:00:23,380 --> 00:00:24,380
+se constituye una audiencia
+
+8
+00:00:24,380 --> 00:00:25,380
+orreanuda, una audiencia
+
+9
+00:00:25,380 --> 00:00:26,380
+pública dentro del radicado
+
+10
+00:00:56,940 --> 00:00:58,940
+y el juzgado concurren las
+
+11
+00:00:58,940 --> 00:01:01,940
+mismas partes que estaban en la
+
+12
+00:01:01,940 --> 00:01:04,940
+etapa anterior, se suspendió
+
+13
+00:01:04,940 --> 00:01:05,940
+para hacer unos ajustes para
+
+14
+00:01:05,940 --> 00:01:06,940
+la emisión de la
+
+15
+00:01:06,940 --> 00:01:07,940
+correspondiente sentencia, a
+
+16
+00:01:07,940 --> 00:01:10,940
+lo cual procedemos de manera
+
+17
+00:01:10,940 --> 00:01:12,940
+inmediata, entonces tenemos que
+
+18
+00:01:12,940 --> 00:01:13,940
+frente a la decisión que nos
+
+19
+00:01:13,940 --> 00:01:16,940
+convoca, debemos precisar que
+
+20
+00:01:16,940 --> 00:01:17,940
+concurren presupuestos
+
+21
+00:01:17,940 --> 00:01:18,940
+procesales para que el despacho
+
+22
+00:01:18,940 --> 00:01:21,940
+entre a resolver de fondo el
+
+23
+00:01:21,940 --> 00:01:22,940
+presente asunto, que tienen que
+
+24
+00:01:22,940 --> 00:01:23,940
+ver con la capacidad de las
+
+25
+00:01:24,500 --> 00:01:27,500
+peticiones.
+
+26
+00:01:27,500 --> 00:01:28,500
+La demandada social
+
+27
+00:01:28,500 --> 00:01:29,500
+administradora de fondos de
+
+28
+00:01:29,500 --> 00:01:30,500
+pensiones por venir es una
+
+29
+00:01:30,500 --> 00:01:31,500
+persona jurídica que concurre a
+
+30
+00:01:31,500 --> 00:01:32,500
+este procedimiento con su
+
+31
+00:01:32,500 --> 00:01:35,500
+correspondiente
+
+32
+00:01:35,500 --> 00:01:39,500
+de cuenta acreditada, su
+
+33
+00:01:39,500 --> 00:01:40,500
+existencia y representación
+
+34
+00:01:40,500 --> 00:01:41,500
+legal, concurre con su
+
+35
+00:01:41,500 --> 00:01:42,500
+representante legal y con el
+
+36
+00:01:42,500 --> 00:01:43,500
+correspondiente apoderado, la
+
+37
+00:01:43,500 --> 00:01:44,500
+parte demandada es Carlos
+
+38
+00:01:44,500 --> 00:01:45,500
+Fernando Arenas Ponceca, una
+
+39
+00:01:45,500 --> 00:01:48,500
+persona que estaría en
+
+40
+00:01:48,500 --> 00:01:51,500
+condición de discapacidad y
+
+41
+00:01:51,500 --> 00:01:53,500
+concurriría representada por su
+
+42
+00:01:54,060 --> 00:01:55,060
+correspondiente legal, que
+
+43
+00:01:55,060 --> 00:01:58,060
+sería Francisco Javier Arenas
+
+44
+00:01:58,060 --> 00:01:59,060
+Ponceca.
+
+45
+00:01:59,060 --> 00:02:00,060
+Adicionalmente concurren con su
+
+46
+00:02:00,060 --> 00:02:03,060
+correspondiente apoderado para
+
+47
+00:02:03,060 --> 00:02:06,060
+el trámite que sea surtido.
+
+48
+00:02:06,060 --> 00:02:11,060
+Esperemos que el despacho es
+
+49
+00:02:11,060 --> 00:02:12,060
+competente para resolver esta
+
+50
+00:02:12,060 --> 00:02:15,060
+controversia, atendiendo a el
+
+51
+00:02:15,060 --> 00:02:20,060
+domicilio de los demandados.
+
+52
+00:02:20,060 --> 00:02:21,060
+Las pretensiones no se
+
+53
+00:02:21,620 --> 00:02:23,620
+podrían superarían los 20
+
+54
+00:02:23,620 --> 00:02:24,620
+salarios mínimos legales
+
+55
+00:02:24,620 --> 00:02:25,620
+mensuales vigentes.
+
+56
+00:02:25,620 --> 00:02:27,620
+En principio, criticamos cómo
+
+57
+00:02:27,620 --> 00:02:30,620
+se fijó la competencia, nos
+
+58
+00:02:30,620 --> 00:02:32,620
+señala la parte demandada por
+
+59
+00:02:32,620 --> 00:02:34,620
+el lugar de domicilio de los
+
+60
+00:02:34,620 --> 00:02:37,620
+demandados frente a la
+
+61
+00:02:37,620 --> 00:02:38,620
+cuantía, dice que lastima en
+
+62
+00:02:38,620 --> 00:02:40,620
+superior a 100 salarios
+
+63
+00:02:40,620 --> 00:02:41,620
+mínimos legales mensuales
+
+64
+00:02:41,620 --> 00:02:42,620
+vigentes.
+
+65
+00:02:42,620 --> 00:02:43,620
+Superando los 20 salarios
+
+66
+00:02:43,620 --> 00:02:44,620
+mínimos legales mensuales
+
+67
+00:02:45,180 --> 00:02:50,180
+que establece el Código
+
+68
+00:02:50,180 --> 00:02:53,180
+Procesal del Trabajo para los
+
+69
+00:02:53,180 --> 00:02:55,180
+procesos de única instancia,
+
+70
+00:02:55,180 --> 00:02:56,180
+este proceso debe tramitarse
+
+71
+00:02:56,180 --> 00:02:57,180
+en primera instancia, entonces
+
+72
+00:02:57,180 --> 00:02:58,180
+es de competencia de los
+
+73
+00:02:58,180 --> 00:02:59,180
+obligados del circuito al haber
+
+74
+00:02:59,180 --> 00:03:02,180
+sido radicado a este despacho,
+
+75
+00:03:02,180 --> 00:03:03,180
+pues el despacho es competente
+
+76
+00:03:03,180 --> 00:03:04,180
+para resolver esta
+
+77
+00:03:04,180 --> 00:03:05,180
+controversia.
+
+78
+00:03:05,180 --> 00:03:06,180
+Tenemos que el proceso que nos
+
+79
+00:03:06,180 --> 00:03:07,180
+convoca se promovió con la
+
+80
+00:03:07,180 --> 00:03:08,180
+correspondiente demanda,
+
+81
+00:03:08,180 --> 00:03:09,180
+justamente las formalidades
+
+82
+00:03:09,180 --> 00:03:11,180
+legales, según se pudo
+
+83
+00:03:11,180 --> 00:03:12,180
+establecer desde el mismo
+
+84
+00:03:12,180 --> 00:03:13,180
+momento de la radicación de la
+
+85
+00:03:13,740 --> 00:03:14,740
+demanda, teniendo a las
+
+86
+00:03:14,740 --> 00:03:16,740
+situaciones que ya precisamos,
+
+87
+00:03:16,740 --> 00:03:17,740
+la cuantía de las
+
+88
+00:03:17,740 --> 00:03:26,740
+reclamaciones y el domicilio
+
+89
+00:03:26,740 --> 00:03:29,740
+del demandado.
+
+90
+00:03:29,740 --> 00:03:30,740
+Tenemos que se agotar el
+
+91
+00:03:30,740 --> 00:03:31,740
+procedimiento establecido para
+
+92
+00:03:31,740 --> 00:03:32,740
+este tipo de trámites, sin que
+
+93
+00:03:32,740 --> 00:03:33,740
+se adviertan visos
+
+94
+00:03:33,740 --> 00:03:34,740
+irregularidades que afecten lo
+
+95
+00:03:34,740 --> 00:03:35,740
+actuado que le impidan al
+
+96
+00:03:35,740 --> 00:03:37,740
+despacho emitir una decisión de
+
+97
+00:03:37,740 --> 00:03:40,740
+fondo en el presente asunto
+
+98
+00:03:40,740 --> 00:03:41,740
+frente a la controversia que es
+
+99
+00:03:41,740 --> 00:03:42,740
+planteada por la parte
+
+100
+00:03:43,300 --> 00:03:44,300
+accionante, pues tenemos que
+
+101
+00:03:44,300 --> 00:03:46,300
+nos indica en el escrito
+
+102
+00:03:46,300 --> 00:03:51,300
+introductorio que el pensionado
+
+103
+00:03:51,300 --> 00:03:53,300
+fallecido, Francisco Antonio
+
+104
+00:03:53,300 --> 00:03:54,300
+Ariana Zaragoza, habría nacido
+
+105
+00:03:54,300 --> 00:03:59,300
+el 17 de marzo de 1938, que
+
+106
+00:03:59,300 --> 00:04:02,300
+se trasladó al fondo por venir
+
+107
+00:04:02,300 --> 00:04:07,300
+el 1 de octubre de 1998, que
+
+108
+00:04:07,300 --> 00:04:09,300
+solicitó una pensión a un
+
+109
+00:04:09,300 --> 00:04:12,300
+instituto de seguros sociales
+
+110
+00:04:12,860 --> 00:04:17,860
+que habría sido reconocida en
+
+111
+00:04:17,860 --> 00:04:19,860
+febrero de 1999, ante la
+
+112
+00:04:19,860 --> 00:04:22,860
+resolución 352 del 26 de enero
+
+113
+00:04:22,860 --> 00:04:29,860
+de 1999, que habría sido modificada
+
+114
+00:04:29,860 --> 00:04:32,860
+por la resolución 1688 del 17
+
+115
+00:04:32,860 --> 00:04:35,860
+de abril de 2020,
+
+116
+00:04:35,860 --> 00:04:38,860
+reconociéndola desde el 17 de
+
+117
+00:04:38,860 --> 00:04:41,860
+marzo de 1998.
+
+118
+00:04:42,420 --> 00:04:45,420
+El fallecido Francisco, Francisco
+
+119
+00:04:45,420 --> 00:04:48,420
+Arenas, perdón, Francisco
+
+120
+00:04:48,420 --> 00:04:49,420
+Arenas-Dragón, sí,
+
+121
+00:04:49,420 --> 00:04:51,420
+efectivamente, Francisco Antonio,
+
+122
+00:04:51,420 --> 00:04:53,420
+habría fallecido el 21 de marzo
+
+123
+00:04:53,420 --> 00:04:56,420
+del año 2000, que en esa medida
+
+124
+00:04:56,420 --> 00:04:57,420
+pues se habría reconocido una
+
+125
+00:04:57,420 --> 00:04:59,420
+sustitución pensional a favor
+
+126
+00:04:59,420 --> 00:05:01,420
+de Ana Lucía Fonseca Arenas y
+
+127
+00:05:01,420 --> 00:05:04,420
+Francisco Javier Arenas Fonseca
+
+128
+00:05:07,420 --> 00:05:09,420
+y con un retroactivo a 24 de
+
+129
+00:05:09,980 --> 00:05:12,980
+abril de 2000 del año 2001.
+
+130
+00:05:14,980 --> 00:05:16,980
+Por venir, reconoció pensión de
+
+131
+00:05:16,980 --> 00:05:19,980
+sobrevivientes a Ana Lucía
+
+132
+00:05:19,980 --> 00:05:22,980
+Fonseca Arenas y a Francisco
+
+133
+00:05:22,980 --> 00:05:25,980
+Javier y Carlos Fernando Arenas
+
+134
+00:05:25,980 --> 00:05:27,980
+Fonseca,
+
+135
+00:05:27,980 --> 00:05:29,980
+pensión que dice que se
+
+136
+00:05:29,980 --> 00:05:31,980
+financió con los ahorros de el
+
+137
+00:05:31,980 --> 00:05:35,980
+afiliado, bono pensional y los
+
+138
+00:05:35,980 --> 00:05:37,980
+gastos o los correspondientes
+
+139
+00:05:38,540 --> 00:05:40,540
+o las primeras de los seguros
+
+140
+00:05:40,540 --> 00:05:42,540
+previsionales
+
+141
+00:05:42,540 --> 00:05:44,540
+que Ana Lucía pues contrató
+
+142
+00:05:44,540 --> 00:05:46,540
+renta vitalicia con seguros
+
+143
+00:05:46,540 --> 00:05:48,540
+alfa que se paga desde agosto
+
+144
+00:05:48,540 --> 00:05:50,540
+del año 2000 que Francisco
+
+145
+00:05:50,540 --> 00:05:53,540
+Antonio Arenas Aragón
+
+146
+00:05:53,540 --> 00:05:55,540
+habría sido excluido del
+
+147
+00:05:55,540 --> 00:05:57,540
+régimen de ahorro individual
+
+148
+00:05:57,540 --> 00:05:59,540
+según disponen la ley 100 de
+
+149
+00:05:59,540 --> 00:06:02,540
+1993 en su artículo 61
+
+150
+00:06:02,540 --> 00:06:04,540
+por tener requisitos para
+
+151
+00:06:04,540 --> 00:06:06,540
+pensión antes de la entrada en
+
+152
+00:06:07,100 --> 00:06:09,100
+la ley 100 de 1993, bien,
+
+153
+00:06:09,100 --> 00:06:11,100
+señala la misma demandada que
+
+154
+00:06:11,100 --> 00:06:14,100
+el reconocimiento pensional
+
+155
+00:06:14,100 --> 00:06:16,100
+que adquirió o que fue
+
+156
+00:06:16,100 --> 00:06:18,100
+reconocido por colpensiones a
+
+157
+00:06:18,100 --> 00:06:20,100
+la accionante, por colpensiones
+
+158
+00:06:20,100 --> 00:06:21,100
+por institutos de seguros
+
+159
+00:06:21,100 --> 00:06:23,100
+sociales a su momento, a la
+
+160
+00:06:23,100 --> 00:06:25,100
+accionante se habría fundado en
+
+161
+00:06:25,100 --> 00:06:27,100
+haber
+
+162
+00:06:27,100 --> 00:06:28,100
+tenido los requisitos para
+
+163
+00:06:28,100 --> 00:06:30,100
+pensión inclusive previo a la
+
+164
+00:06:30,100 --> 00:06:32,100
+ley 100 de 1993.
+
+165
+00:06:32,100 --> 00:06:34,100
+Refiere que el doble beneficio
+
+166
+00:06:34,100 --> 00:06:35,100
+pues afecta al sistema de
+
+167
+00:06:35,660 --> 00:06:37,660
+ingresos que también resolvieron
+
+168
+00:06:37,660 --> 00:06:39,660
+que debía responder por la
+
+169
+00:06:39,660 --> 00:06:41,660
+pensión desde el 27 de agosto
+
+170
+00:06:41,660 --> 00:06:43,660
+de 2019.
+
+171
+00:06:43,660 --> 00:06:45,660
+Dice que
+
+172
+00:06:45,660 --> 00:06:47,660
+se concluye que
+
+173
+00:06:47,660 --> 00:06:49,660
+fue inválida
+
+174
+00:06:49,660 --> 00:06:51,660
+para ellos por la afiliación del
+
+175
+00:06:51,660 --> 00:06:53,660
+demandante del régimen de ahorro
+
+176
+00:06:53,660 --> 00:06:55,660
+individual con solidaridad.
+
+177
+00:07:01,660 --> 00:07:03,660
+Refiere que se le informó
+
+178
+00:07:04,220 --> 00:07:06,220
+al demandado el 9 de enero del
+
+179
+00:07:06,220 --> 00:07:08,220
+año 2020, se le requirió
+
+180
+00:07:08,220 --> 00:07:10,220
+para
+
+181
+00:07:10,220 --> 00:07:12,220
+eliminar ese
+
+182
+00:07:12,220 --> 00:07:14,220
+reconocimiento pensional y que
+
+183
+00:07:14,220 --> 00:07:16,220
+pues esta cuestión fue rechazada
+
+184
+00:07:16,220 --> 00:07:18,220
+por la representación del
+
+185
+00:07:18,220 --> 00:07:20,220
+demandado dentro de este procedimiento.
+
+186
+00:07:20,220 --> 00:07:22,220
+Con base en esa narrativa,
+
+187
+00:07:22,220 --> 00:07:24,220
+reclama que se declare inválida la
+
+188
+00:07:24,220 --> 00:07:26,220
+afiliación del fallecido
+
+189
+00:07:26,220 --> 00:07:28,220
+Francisco Arenas Aragón
+
+190
+00:07:28,220 --> 00:07:30,220
+que tuvo lugar en agosto de 1998
+
+191
+00:07:30,220 --> 00:07:32,220
+que
+
+192
+00:07:32,780 --> 00:07:34,780
+disponga que no se debía reconocer
+
+193
+00:07:34,780 --> 00:07:36,780
+pensión
+
+194
+00:07:36,780 --> 00:07:38,780
+de sobrevivientes al demandante
+
+195
+00:07:38,780 --> 00:07:40,780
+que autorice la revocatoria al reconocimiento
+
+196
+00:07:40,780 --> 00:07:42,780
+pensional,
+
+197
+00:07:42,780 --> 00:07:44,780
+la revocatoria en consecuencia
+
+198
+00:07:44,780 --> 00:07:46,780
+de la póliza de seguro de renta vitalicia
+
+199
+00:07:46,780 --> 00:07:48,780
+y que se ordene al demandado
+
+200
+00:07:48,780 --> 00:07:50,780
+el reintegro de la totalidad de las
+
+201
+00:07:50,780 --> 00:07:52,780
+mesadas recibidas con ocasión
+
+202
+00:07:52,780 --> 00:07:54,780
+de ese reconocimiento junto con sus intereses
+
+203
+00:07:54,780 --> 00:07:56,780
+y condenan costas a la parte
+
+204
+00:07:56,780 --> 00:07:58,780
+accionante por haber
+
+205
+00:07:58,780 --> 00:08:00,780
+obligado a la promoción
+
+206
+00:08:01,340 --> 00:08:03,340
+frente a esa narrativa,
+
+207
+00:08:03,340 --> 00:08:05,340
+la parte demandada
+
+208
+00:08:05,340 --> 00:08:07,340
+acepta como ciertos
+
+209
+00:08:07,340 --> 00:08:09,340
+algunos hechos, particularmente
+
+210
+00:08:09,340 --> 00:08:11,340
+pues la fecha de nacimiento
+
+211
+00:08:11,340 --> 00:08:13,340
+del señor Francisco Arenas Aragón,
+
+212
+00:08:13,340 --> 00:08:15,340
+el fallecimiento de este
+
+213
+00:08:15,340 --> 00:08:17,340
+en el año 2000
+
+214
+00:08:21,340 --> 00:08:23,340
+el hecho de que la pensión
+
+215
+00:08:23,340 --> 00:08:25,340
+se financia con el ahorro individual
+
+216
+00:08:25,340 --> 00:08:27,340
+del afiliado, bueno, pensional, refieren
+
+217
+00:08:31,340 --> 00:08:33,340
+y pues que no se aceptó
+
+218
+00:08:33,340 --> 00:08:35,340
+el planteamiento por parte
+
+219
+00:08:35,340 --> 00:08:37,340
+de la accionada con relación a
+
+220
+00:08:37,340 --> 00:08:39,340
+el levantamiento o la terminación
+
+221
+00:08:39,340 --> 00:08:41,340
+del reconocimiento pensional.
+
+222
+00:08:43,340 --> 00:08:45,340
+Lo restante pues es
+
+223
+00:08:45,340 --> 00:08:47,340
+objeto de controversia
+
+224
+00:08:47,340 --> 00:08:49,340
+se plantea por la parte
+
+225
+00:08:49,340 --> 00:08:51,340
+demandada que el reconocimiento pensional
+
+226
+00:08:51,340 --> 00:08:53,340
+se habría causado con anterioridad
+
+227
+00:08:53,340 --> 00:08:55,340
+a la vigencia
+
+228
+00:08:55,340 --> 00:08:57,340
+de la ley 100 de 1993
+
+229
+00:08:57,340 --> 00:08:59,340
+en esa consecuencia que sería
+
+230
+00:08:59,900 --> 00:09:01,900
+con reconocimientos con base
+
+231
+00:09:01,900 --> 00:09:03,900
+en situaciones
+
+232
+00:09:03,900 --> 00:09:05,900
+posteriores a la ley 100
+
+233
+00:09:07,900 --> 00:09:09,900
+y por tanto pues se opone a la totalidad
+
+234
+00:09:09,900 --> 00:09:11,900
+de las pretensiones de la demanda
+
+235
+00:09:11,900 --> 00:09:13,900
+como excepciones, se plantean
+
+236
+00:09:13,900 --> 00:09:15,900
+las que se nominan
+
+237
+00:09:15,900 --> 00:09:17,900
+buena fe
+
+238
+00:09:17,900 --> 00:09:19,900
+buena fe exenta
+
+239
+00:09:19,900 --> 00:09:21,900
+de culpa, prescripción
+
+240
+00:09:21,900 --> 00:09:23,900
+derecho a doble
+
+241
+00:09:23,900 --> 00:09:25,900
+asignación pensional
+
+242
+00:09:25,900 --> 00:09:27,900
+y la que
+
+243
+00:09:28,460 --> 00:09:30,460
+pues señala como genérica o denominada
+
+244
+00:09:30,460 --> 00:09:32,460
+realmente no es una excepción, es una
+
+245
+00:09:32,460 --> 00:09:34,460
+referencia, una disposición legal que le impone al despacho
+
+246
+00:09:34,460 --> 00:09:36,460
+declarar
+
+247
+00:09:36,460 --> 00:09:38,460
+las excepciones que resulten
+
+248
+00:09:38,460 --> 00:09:40,460
+probadas de los hechos que resulten
+
+249
+00:09:40,460 --> 00:09:42,460
+probados dentro del expediente.
+
+250
+00:09:42,460 --> 00:09:44,460
+Con base en esa narrativa por lo que tiene que
+
+251
+00:09:44,460 --> 00:09:46,460
+establecer el despacho
+
+252
+00:09:46,460 --> 00:09:48,460
+es si la afiliación
+
+253
+00:09:48,460 --> 00:09:50,460
+del demandante de perdón
+
+254
+00:09:50,460 --> 00:09:52,460
+del señor Francisco
+
+255
+00:09:54,460 --> 00:09:56,460
+Arenas Aragón
+
+256
+00:09:57,020 --> 00:09:59,020
+en el año 1998
+
+257
+00:09:59,020 --> 00:10:01,020
+resulta válida
+
+258
+00:10:01,020 --> 00:10:03,020
+si
+
+259
+00:10:05,020 --> 00:10:07,020
+el origen de las
+
+260
+00:10:07,020 --> 00:10:09,020
+reconocimientos pensionales que están
+
+261
+00:10:09,020 --> 00:10:11,020
+en
+
+262
+00:10:11,020 --> 00:10:13,020
+habría hecho colpensiones
+
+263
+00:10:13,020 --> 00:10:15,020
+sustituyendo el instituto
+
+264
+00:10:15,020 --> 00:10:17,020
+de seguros sociales
+
+265
+00:10:17,020 --> 00:10:19,020
+y porvenir
+
+266
+00:10:19,020 --> 00:10:21,020
+resultan combatibles
+
+267
+00:10:21,020 --> 00:10:23,020
+en caso de
+
+268
+00:10:23,020 --> 00:10:25,020
+establecer que no es viable
+
+269
+00:10:25,580 --> 00:10:27,580
+el despacho debería acceder
+
+270
+00:10:27,580 --> 00:10:29,580
+a lo que reclama la parte
+
+271
+00:10:29,580 --> 00:10:31,580
+accionante y pues
+
+272
+00:10:31,580 --> 00:10:33,580
+precisar si corresponde o no
+
+273
+00:10:33,580 --> 00:10:35,580
+la evolución de las
+
+274
+00:10:35,580 --> 00:10:37,580
+mensadas recibidas por
+
+275
+00:10:37,580 --> 00:10:39,580
+los sucesores
+
+276
+00:10:39,580 --> 00:10:41,580
+del señor Francisco
+
+277
+00:10:41,580 --> 00:10:43,580
+Arenas Aragón
+
+278
+00:10:43,580 --> 00:10:45,580
+frente al reconocimiento que hizo por venir
+
+279
+00:10:45,580 --> 00:10:47,580
+a partir del año 2001
+
+280
+00:10:47,580 --> 00:10:49,580
+no entiendo
+
+281
+00:10:49,580 --> 00:10:51,580
+lo que hicimos acá
+
+282
+00:10:51,580 --> 00:10:53,580
+es decir que fue
+
+283
+00:10:54,140 --> 00:10:56,140
+a partir del año 2001
+
+284
+00:11:00,140 --> 00:11:02,140
+entonces
+
+285
+00:11:02,140 --> 00:11:04,140
+para resolver esa controversia con lo que tiene el despacho
+
+286
+00:11:04,140 --> 00:11:06,140
+disponible pues son exclusivamente
+
+287
+00:11:06,140 --> 00:11:08,140
+las pruebas legal y oportunamente
+
+288
+00:11:08,140 --> 00:11:10,140
+incorporadas al procedimiento
+
+289
+00:11:10,140 --> 00:11:12,140
+según
+
+290
+00:11:12,140 --> 00:11:14,140
+dispone el artículo 164 del Código
+
+291
+00:11:14,140 --> 00:11:16,140
+General del Proceso
+
+292
+00:11:16,140 --> 00:11:18,140
+el artículo 167 de esa misma normativa
+
+293
+00:11:18,140 --> 00:11:20,140
+nos señala que quien
+
+294
+00:11:20,140 --> 00:11:22,140
+solicita la aplicación de una determinada
+
+295
+00:11:22,700 --> 00:11:24,700
+normativa tiene la carga de acreditar
+
+296
+00:11:24,700 --> 00:11:26,700
+ante el resultado de la concurrencia
+
+297
+00:11:26,700 --> 00:11:28,700
+a los supuestos prácticos que habiliten
+
+298
+00:11:28,700 --> 00:11:30,700
+esa aplicación
+
+299
+00:11:30,700 --> 00:11:32,700
+de esa norma para la resolución concreta
+
+300
+00:11:32,700 --> 00:11:34,700
+del caso
+
+301
+00:11:34,700 --> 00:11:36,700
+frente a las pruebas que son incorporadas
+
+302
+00:11:36,700 --> 00:11:38,700
+son exclusivamente documentales
+
+303
+00:11:38,700 --> 00:11:40,700
+tienen que ver con los documentos
+
+304
+00:11:40,700 --> 00:11:42,700
+aportados por la parte demandante
+
+305
+00:11:42,700 --> 00:11:44,700
+en los cuales se incorporan pues el reconocimiento
+
+306
+00:11:44,700 --> 00:11:46,700
+pensional de por venir, las certificaciones
+
+307
+00:11:46,700 --> 00:11:48,700
+de
+
+308
+00:11:48,700 --> 00:11:50,700
+con pensiones y certificaciones relacionadas
+
+309
+00:11:51,260 --> 00:11:53,260
+con los pagos de pensiones
+
+310
+00:11:53,260 --> 00:11:55,260
+de las entidades
+
+311
+00:11:55,260 --> 00:11:57,260
+a los sucesores
+
+312
+00:11:57,260 --> 00:11:59,260
+de Francisco Antonio Arena
+
+313
+00:11:59,260 --> 00:12:01,260
+Zaragon
+
+314
+00:12:01,260 --> 00:12:03,260
+los documentos aportados por la parte
+
+315
+00:12:03,260 --> 00:12:05,260
+demandante
+
+316
+00:12:05,260 --> 00:12:07,260
+que tienen que ver con
+
+317
+00:12:07,260 --> 00:12:09,260
+la resolución de reconocimiento
+
+318
+00:12:09,260 --> 00:12:11,260
+de pensión
+
+319
+00:12:11,260 --> 00:12:13,260
+y las de a favor
+
+320
+00:12:13,260 --> 00:12:15,260
+de Carlos Andrés
+
+321
+00:12:15,260 --> 00:12:17,260
+perdona, Carlos Fernando
+
+322
+00:12:17,820 --> 00:12:19,820
+perdono
+
+323
+00:12:19,820 --> 00:12:21,820
+Carlos Fernando Arenas
+
+324
+00:12:21,820 --> 00:12:23,820
+Fonseca
+
+325
+00:12:23,820 --> 00:12:25,820
+entonces
+
+326
+00:12:25,820 --> 00:12:27,820
+esos son los
+
+327
+00:12:27,820 --> 00:12:29,820
+únicos elementos con los que cuenta el despacho
+
+328
+00:12:29,820 --> 00:12:31,820
+para resolver esta controversia
+
+329
+00:12:31,820 --> 00:12:33,820
+adicionalmente pues tenemos que se han aceptado
+
+330
+00:12:33,820 --> 00:12:35,820
+por parte de la demanda de algunas situaciones
+
+331
+00:12:35,820 --> 00:12:37,820
+que no son objeto de controversia
+
+332
+00:12:37,820 --> 00:12:39,820
+relacionadas con la edad del accionante
+
+333
+00:12:39,820 --> 00:12:41,820
+se aceptó
+
+334
+00:12:41,820 --> 00:12:43,820
+también dentro de este procedimiento
+
+335
+00:12:43,820 --> 00:12:45,820
+que la pensión, bueno
+
+336
+00:12:46,380 --> 00:12:48,380
+se habría reconocida
+
+337
+00:12:48,380 --> 00:12:50,380
+el señor Francisco Antonio Arena Zaragon
+
+338
+00:12:50,380 --> 00:12:52,380
+por parte
+
+339
+00:12:52,380 --> 00:12:54,380
+del Instituto de Seguros Sociales
+
+340
+00:12:54,380 --> 00:12:56,380
+posteriormente
+
+341
+00:12:56,380 --> 00:12:58,380
+con pensiones en la resolución
+
+342
+00:12:58,380 --> 00:13:00,380
+352
+
+343
+00:13:00,380 --> 00:13:02,380
+del 26 de enero de 1999
+
+344
+00:13:02,380 --> 00:13:04,380
+se habría reconocido
+
+345
+00:13:04,380 --> 00:13:06,380
+con base o en el cumplimiento
+
+346
+00:13:06,380 --> 00:13:08,380
+de requisitos para pensión
+
+347
+00:13:08,380 --> 00:13:10,380
+previo a la vigencia de la ley 100
+
+348
+00:13:10,380 --> 00:13:12,380
+de 1993
+
+349
+00:13:12,380 --> 00:13:14,380
+una cuestión que se expuesta inclusive
+
+350
+00:13:14,940 --> 00:13:16,940
+por la misma demandada
+
+351
+00:13:16,940 --> 00:13:18,940
+en este procedimiento
+
+352
+00:13:18,940 --> 00:13:20,940
+particularmente
+
+353
+00:13:20,940 --> 00:13:22,940
+en el hecho
+
+354
+00:13:30,940 --> 00:13:32,940
+hecho 12
+
+355
+00:13:32,940 --> 00:13:34,940
+del escrito de la demanda
+
+356
+00:13:34,940 --> 00:13:36,940
+sumamente
+
+357
+00:13:36,940 --> 00:13:38,940
+no se indica
+
+358
+00:13:38,940 --> 00:13:40,940
+dice que conformidad con las previsiones
+
+359
+00:13:40,940 --> 00:13:42,940
+contenidas en el artículo 61
+
+360
+00:13:42,940 --> 00:13:44,940
+que se encontraba
+
+361
+00:13:44,940 --> 00:13:46,940
+Francisco Antonio Arena Zaragon
+
+362
+00:13:46,940 --> 00:13:48,940
+excluido
+
+363
+00:13:48,940 --> 00:13:50,940
+pues ya tenía 55 años de edad
+
+364
+00:13:50,940 --> 00:13:52,940
+aunado a que al momento
+
+365
+00:13:52,940 --> 00:13:54,940
+de su afiliación al RAIS
+
+366
+00:13:54,940 --> 00:13:56,940
+ya había reunido los requisitos
+
+367
+00:13:56,940 --> 00:13:58,940
+para acceder a la pensión
+
+368
+00:13:58,940 --> 00:14:00,940
+es lo que señala, perdón, el hecho 12
+
+369
+00:14:00,940 --> 00:14:02,940
+frente a los reconocimientos
+
+370
+00:14:02,940 --> 00:14:04,940
+pensionales
+
+371
+00:14:04,940 --> 00:14:06,940
+que se hicieron a favor
+
+372
+00:14:06,940 --> 00:14:08,940
+de el señor Francisco
+
+373
+00:14:08,940 --> 00:14:10,940
+Antonio
+
+374
+00:14:10,940 --> 00:14:12,940
+Arenas Aragón
+
+375
+00:14:12,940 --> 00:14:14,940
+pues tenemos el reconocimiento
+
+376
+00:14:14,940 --> 00:14:16,940
+pensional que hizo
+
+377
+00:14:16,940 --> 00:14:18,940
+con pensiones, se encuentra incorporado
+
+378
+00:14:18,940 --> 00:14:20,940
+en el artículo
+
+379
+00:14:20,940 --> 00:14:22,940
+del artículo
+
+380
+00:14:22,940 --> 00:14:24,940
+del artículo
+
+381
+00:14:24,940 --> 00:14:26,940
+del artículo
+
+382
+00:14:26,940 --> 00:14:28,940
+del artículo
+
+383
+00:14:28,940 --> 00:14:30,940
+en
+
+384
+00:14:30,940 --> 00:14:32,940
+los documentos
+
+385
+00:14:32,940 --> 00:14:34,940
+aportados por colpensiones
+
+386
+00:14:48,940 --> 00:14:50,940
+entonces tenemos que colpensiones
+
+387
+00:14:50,940 --> 00:14:52,940
+nos aporta pues toda la historia
+
+388
+00:14:52,940 --> 00:14:54,940
+laboral de
+
+389
+00:14:54,940 --> 00:14:56,940
+Francisco Antonio
+
+390
+00:14:58,940 --> 00:15:00,940
+al respecto
+
+391
+00:15:00,940 --> 00:15:02,940
+pues encontramos en la página
+
+392
+00:15:02,940 --> 00:15:04,940
+82
+
+393
+00:15:04,940 --> 00:15:06,940
+recuerdo
+
+394
+00:15:06,940 --> 00:15:08,940
+la resolución
+
+395
+00:15:08,940 --> 00:15:10,940
+de reconocimiento
+
+396
+00:15:10,940 --> 00:15:12,940
+de pensión
+
+397
+00:15:12,940 --> 00:15:14,940
+esta nos indica
+
+398
+00:15:14,940 --> 00:15:16,940
+es la resolución
+
+399
+00:15:16,940 --> 00:15:18,940
+00352
+
+400
+00:15:18,940 --> 00:15:20,940
+la resolución de reconocimiento
+
+401
+00:15:20,940 --> 00:15:22,940
+de pensión
+
+402
+00:15:22,940 --> 00:15:24,940
+esta nos indica
+
+403
+00:15:24,940 --> 00:15:26,940
+la resolución 00352
+
+404
+00:15:26,940 --> 00:15:28,940
+la resolución 00352
+
+405
+00:15:28,940 --> 00:15:30,940
+de 1999
+
+406
+00:15:30,940 --> 00:15:32,940
+por medio de la cual se resuelve la solicitud
+
+407
+00:15:32,940 --> 00:15:34,940
+de prestaciones económicas
+
+408
+00:15:34,940 --> 00:15:36,940
+indica esa norma que el 1 de julio
+
+409
+00:15:36,940 --> 00:15:38,940
+97 el asegurado Francisco
+
+410
+00:15:40,940 --> 00:15:42,940
+Arenas Aragón
+
+411
+00:15:42,940 --> 00:15:44,940
+nacido el 17 de marzo
+
+412
+00:15:44,940 --> 00:15:46,940
+de 1938
+
+413
+00:15:48,940 --> 00:15:50,940
+el leo solicitud de pensión
+
+414
+00:15:50,940 --> 00:15:52,940
+teniendo como último empleador al Banco Central
+
+415
+00:15:52,940 --> 00:15:54,940
+hipotecario que según lo dispuesto en el artículo
+
+416
+00:15:54,940 --> 00:15:56,940
+76 de la ley 100 de 1993
+
+417
+00:15:56,940 --> 00:15:58,940
+el regimen de transición se aplica
+
+418
+00:15:58,940 --> 00:16:00,940
+a quien es el momento de entrar en vigencia
+
+419
+00:16:00,940 --> 00:16:02,940
+al nuevo sistema
+
+420
+00:16:02,940 --> 00:16:04,940
+tienen 35 años de edad si son mujeres
+
+421
+00:16:04,940 --> 00:16:06,940
+40 años si son hombres
+
+422
+00:16:06,940 --> 00:16:08,940
+15 años de servicios cotizados siempre y cuando
+
+423
+00:16:08,940 --> 00:16:10,940
+a 31 de marzo de 1994
+
+424
+00:16:10,940 --> 00:16:12,940
+estuvieran afiliados
+
+425
+00:16:12,940 --> 00:16:14,940
+a un determinado regimen prestacional
+
+426
+00:16:14,940 --> 00:16:16,940
+para reconocer la pensión
+
+427
+00:16:16,940 --> 00:16:18,940
+con el tiempo y modo
+
+428
+00:16:18,940 --> 00:16:20,940
+en el establecidas
+
+429
+00:16:20,940 --> 00:16:22,940
+el regimen aplicable para la transición
+
+430
+00:16:22,940 --> 00:16:24,940
+para afiliados de institutos seguros sociales
+
+431
+00:16:24,940 --> 00:16:26,940
+exige tener 60 años o más de edad
+
+432
+00:16:26,940 --> 00:16:28,940
+si se es hombre
+
+433
+00:16:28,940 --> 00:16:30,940
+55 si se es mujer
+
+434
+00:16:30,940 --> 00:16:32,940
+500 semanas cotizadas
+
+435
+00:16:32,940 --> 00:16:34,940
+dentro de los últimos 20 años
+
+436
+00:16:34,940 --> 00:16:36,940
+antes del cumplimiento de la
+
+437
+00:16:36,940 --> 00:16:38,940
+referida edad
+
+438
+00:16:40,940 --> 00:16:42,940
+o en cualquier época para adquirir
+
+439
+00:16:42,940 --> 00:16:44,940
+el derecho a la pensión según lo dispuesto
+
+440
+00:16:44,940 --> 00:16:46,940
+en el acuerdo 12
+
+441
+00:16:46,940 --> 00:16:48,940
+el acuerdo 049 de 1990
+
+442
+00:16:48,940 --> 00:16:50,940
+que fue incorporado
+
+443
+00:16:50,940 --> 00:16:52,940
+a el ordenamiento jurídico
+
+444
+00:16:52,940 --> 00:16:54,940
+mediante el decreto 758
+
+445
+00:16:54,940 --> 00:16:56,940
+de esa misma anualidad
+
+446
+00:16:56,940 --> 00:16:58,940
+refiere que en el caso concreto se cumplen las condiciones
+
+447
+00:16:58,940 --> 00:17:00,940
+anteriormente indicadas a favor del
+
+448
+00:17:00,940 --> 00:17:02,940
+beneficiario y se cumplen
+
+449
+00:17:02,940 --> 00:17:04,940
+los requisitos de edad exigidos para adquirir
+
+450
+00:17:04,940 --> 00:17:06,940
+el pretendido derecho
+
+451
+00:17:06,940 --> 00:17:08,940
+el reconocimiento pensional en ese
+
+452
+00:17:08,940 --> 00:17:10,940
+documento
+
+453
+00:17:12,940 --> 00:17:14,940
+posteriormente
+
+454
+00:17:14,940 --> 00:17:16,940
+en resolución
+
+455
+00:17:16,940 --> 00:17:18,940
+01688
+
+456
+00:17:18,940 --> 00:17:20,940
+se modifica
+
+457
+00:17:20,940 --> 00:17:22,940
+dice
+
+458
+00:17:22,940 --> 00:17:24,940
+una resolución
+
+459
+00:17:24,940 --> 00:17:26,940
+0352
+
+460
+00:17:26,940 --> 00:17:28,940
+desde 26 de enero del 99
+
+461
+00:17:28,940 --> 00:17:30,940
+el instituto de seguros sociales
+
+462
+00:17:30,940 --> 00:17:32,940
+concedió pensión de vejez a
+
+463
+00:17:32,940 --> 00:17:34,940
+Francisco Arenas Aragón
+
+464
+00:17:34,940 --> 00:17:36,940
+refiere seguidamente que
+
+465
+00:17:36,940 --> 00:17:38,940
+contra esta resolución
+
+466
+00:17:38,940 --> 00:17:40,940
+el asegurado interpuso recurso de reposición
+
+467
+00:17:40,940 --> 00:17:42,940
+en subsidio de apelación
+
+468
+00:17:42,940 --> 00:17:44,940
+argumentando que el Banco Central Hipotecario
+
+469
+00:17:44,940 --> 00:17:46,940
+desde 1900
+
+470
+00:17:46,940 --> 00:17:48,940
+desde la fecha en que cumplió
+
+471
+00:17:48,940 --> 00:17:50,940
+los 60 años
+
+472
+00:17:50,940 --> 00:17:52,940
+el 17 de marzo del 98
+
+473
+00:17:52,940 --> 00:17:54,940
+había venido cancelando
+
+474
+00:17:54,940 --> 00:17:56,940
+una pensión de jubilación motivo por el cual
+
+475
+00:17:56,940 --> 00:17:58,940
+solicitaba que le sea
+
+476
+00:17:58,940 --> 00:18:00,940
+reconocido el valor retroactivo
+
+477
+00:18:00,940 --> 00:18:02,940
+de su pensión y en consecuencia
+
+478
+00:18:02,940 --> 00:18:04,940
+se gire y dice al Banco Central Hipotecario
+
+479
+00:18:04,940 --> 00:18:06,940
+allí se resolvió
+
+480
+00:18:08,940 --> 00:18:10,940
+la resolución
+
+481
+00:18:10,940 --> 00:18:12,940
+01688
+
+482
+00:18:12,940 --> 00:18:14,940
+el 17 de abril del año
+
+483
+00:18:16,940 --> 00:18:18,940
+2000
+
+484
+00:18:20,940 --> 00:18:22,940
+modificar la resolución 032
+
+485
+00:18:22,940 --> 00:18:24,940
+del 26 de enero del 99
+
+486
+00:18:24,940 --> 00:18:26,940
+ordenar conceder la pensión del
+
+487
+00:18:26,940 --> 00:18:28,940
+asegurado
+
+488
+00:18:28,940 --> 00:18:30,940
+allí desde marzo del 98
+
+489
+00:18:32,940 --> 00:18:34,940
+y que el retroactivo originado
+
+490
+00:18:34,940 --> 00:18:36,940
+por la modificación de fecha de la
+
+491
+00:18:36,940 --> 00:18:38,940
+concesión de prestación ascendía a
+
+492
+00:18:38,940 --> 00:18:40,940
+5.140.219 pesos
+
+493
+00:18:40,940 --> 00:18:42,940
+entonces
+
+494
+00:18:42,940 --> 00:18:44,940
+estas
+
+495
+00:18:44,940 --> 00:18:46,940
+actos administrativos
+
+496
+00:18:46,940 --> 00:18:48,940
+nos permiten establecer
+
+497
+00:18:48,940 --> 00:18:50,940
+el reconocimiento pensional
+
+498
+00:18:50,940 --> 00:18:52,940
+desde inclusive
+
+499
+00:18:52,940 --> 00:18:54,940
+o sea con
+
+500
+00:18:54,940 --> 00:18:56,940
+retroactivo desde 1998
+
+501
+00:18:56,940 --> 00:18:58,940
+a favor
+
+502
+00:18:58,940 --> 00:19:00,940
+del fallecido
+
+503
+00:19:02,940 --> 00:19:04,940
+Francisco Antonio
+
+504
+00:19:04,940 --> 00:19:06,940
+Aragón Arenas
+
+505
+00:19:06,940 --> 00:19:08,940
+y con base
+
+506
+00:19:08,940 --> 00:19:10,940
+en haber cumplido
+
+507
+00:19:10,940 --> 00:19:12,940
+inclusive
+
+508
+00:19:12,940 --> 00:19:14,940
+los requisitos para el derecho
+
+509
+00:19:14,940 --> 00:19:16,940
+pensional
+
+510
+00:19:16,940 --> 00:19:18,940
+previo a los 60 años
+
+511
+00:19:18,940 --> 00:19:20,940
+que los habría cumplido en el año 1998
+
+512
+00:19:24,940 --> 00:19:26,940
+adicional a esto
+
+513
+00:19:26,940 --> 00:19:28,940
+se encuentran algunas actuaciones
+
+514
+00:19:28,940 --> 00:19:30,940
+posteriores
+
+515
+00:19:30,940 --> 00:19:32,940
+del Instituto de Seguro Sociales
+
+516
+00:19:32,940 --> 00:19:34,940
+en las cuales
+
+517
+00:19:38,940 --> 00:19:40,940
+por favor
+
+518
+00:19:40,940 --> 00:19:42,940
+o se hace
+
+519
+00:19:42,940 --> 00:19:44,940
+una sustitución
+
+520
+00:19:44,940 --> 00:19:46,940
+de un derecho pensional
+
+521
+00:19:46,940 --> 00:19:48,940
+reconocido por el Banco Central Hipotecario
+
+522
+00:19:52,940 --> 00:19:54,940
+a distintos
+
+523
+00:19:54,940 --> 00:19:56,940
+afiliados
+
+524
+00:19:56,940 --> 00:19:58,940
+entre ellos se encuentra
+
+525
+00:19:58,940 --> 00:20:00,940
+el fallecido
+
+526
+00:20:00,940 --> 00:20:02,940
+Francisco
+
+527
+00:20:02,940 --> 00:20:04,940
+Antonio Arenas Aragón
+
+528
+00:20:04,940 --> 00:20:06,940
+según
+
+529
+00:20:06,940 --> 00:20:08,940
+se desprende
+
+530
+00:20:08,940 --> 00:20:10,940
+de la resolución 085
+
+531
+00:20:10,940 --> 00:20:12,940
+del 16 de abril de 2003
+
+532
+00:20:12,940 --> 00:20:14,940
+esta está incorporada
+
+533
+00:20:14,940 --> 00:20:16,940
+en el expediente a partir de
+
+534
+00:20:20,940 --> 00:20:22,940
+la página
+
+535
+00:20:22,940 --> 00:20:24,940
+412 del escrito
+
+536
+00:20:24,940 --> 00:20:26,940
+o de los documentos aportados por colpensiones
+
+537
+00:20:26,940 --> 00:20:28,940
+las anteriores
+
+538
+00:20:28,940 --> 00:20:30,940
+resoluciones, la del reconocimiento
+
+539
+00:20:30,940 --> 00:20:32,940
+pensional
+
+540
+00:20:34,940 --> 00:20:36,940
+está incorporada
+
+541
+00:20:36,940 --> 00:20:38,940
+en la página 82
+
+542
+00:20:38,940 --> 00:20:40,940
+y en
+
+543
+00:20:40,940 --> 00:20:42,940
+las siguientes incorporadas
+
+544
+00:20:42,940 --> 00:20:44,940
+primero en la resolución
+
+545
+00:20:44,940 --> 00:20:46,940
+de reconocimiento pensional
+
+546
+00:20:46,940 --> 00:20:48,940
+resolución 00352 de 1999
+
+547
+00:20:48,940 --> 00:20:50,940
+y
+
+548
+00:20:50,940 --> 00:20:52,940
+0168
+
+549
+00:20:52,940 --> 00:20:54,940
+del año
+
+550
+00:20:54,940 --> 00:20:56,940
+2007
+
+551
+00:20:56,940 --> 00:20:58,940
+abril del año 2000
+
+552
+00:20:58,940 --> 00:21:00,940
+habría hecho esas
+
+553
+00:21:00,940 --> 00:21:02,940
+modificaciones de la resolución de reconocimiento
+
+554
+00:21:02,940 --> 00:21:04,940
+pensional
+
+555
+00:21:04,940 --> 00:21:06,940
+adicional a esto
+
+556
+00:21:06,940 --> 00:21:08,940
+pues tenemos que hay un reconocimiento pensional
+
+557
+00:21:08,940 --> 00:21:10,940
+por parte de la administradora de fondos de pensiones
+
+558
+00:21:10,940 --> 00:21:12,940
+demandante por venir que se incorporó
+
+559
+00:21:12,940 --> 00:21:14,940
+el único documento que tenemos
+
+560
+00:21:14,940 --> 00:21:16,940
+frente a ese reconocimiento
+
+561
+00:21:16,940 --> 00:21:18,940
+sería el aportado por la parte
+
+562
+00:21:18,940 --> 00:21:20,940
+accionante
+
+563
+00:21:20,940 --> 00:21:22,940
+está como prueba
+
+564
+00:21:22,940 --> 00:21:24,940
+en el archivo
+
+565
+00:21:24,940 --> 00:21:26,940
+7, si no estoy mal
+
+566
+00:21:26,940 --> 00:21:28,940
+7 a la certificación
+
+567
+00:21:28,940 --> 00:21:30,940
+de afiliación a por venir
+
+568
+00:21:30,940 --> 00:21:32,940
+bueno
+
+569
+00:21:32,940 --> 00:21:34,940
+dos cosas, la certificación
+
+570
+00:21:34,940 --> 00:21:36,940
+de afiliación pues está incorporada
+
+571
+00:21:36,940 --> 00:21:38,940
+en el archivo 7 que acabo de señalar
+
+572
+00:21:38,940 --> 00:21:40,940
+nos indica que el fallecido
+
+573
+00:21:40,940 --> 00:21:42,940
+Francisco Antonio
+
+574
+00:21:42,940 --> 00:21:44,940
+Arenas Aragón se habría afiliado
+
+575
+00:21:44,940 --> 00:21:46,940
+a la ARL por venir
+
+576
+00:21:46,940 --> 00:21:48,940
+proveniente
+
+577
+00:21:48,940 --> 00:21:50,940
+del instituto de seguros sociales
+
+578
+00:21:50,940 --> 00:21:52,940
+el primero de agosto del año
+
+579
+00:21:52,940 --> 00:21:54,940
+1998 según el formato que está
+
+580
+00:21:54,940 --> 00:21:56,940
+incorporado en ese archivo
+
+581
+00:21:56,940 --> 00:21:58,940
+y frente al reconocimiento
+
+582
+00:21:58,940 --> 00:22:00,940
+pensional
+
+583
+00:22:02,940 --> 00:22:04,940
+que es este
+
+584
+00:22:08,940 --> 00:22:10,940
+certificado afiliación por venir
+
+585
+00:22:10,940 --> 00:22:12,940
+es este
+
+586
+00:22:12,940 --> 00:22:14,940
+la siguiente la comunicación
+
+587
+00:22:14,940 --> 00:22:16,940
+acá
+
+588
+00:22:16,940 --> 00:22:18,940
+tenemos el documento del
+
+589
+00:22:18,940 --> 00:22:20,940
+9 de agosto del año 2000
+
+590
+00:22:22,940 --> 00:22:24,940
+emitido
+
+591
+00:22:24,940 --> 00:22:26,940
+por venir
+
+592
+00:22:26,940 --> 00:22:28,940
+este documento
+
+593
+00:22:28,940 --> 00:22:30,940
+se dirige
+
+594
+00:22:30,940 --> 00:22:32,940
+a Ana Lucía Fonseca Arenas
+
+595
+00:22:32,940 --> 00:22:34,940
+nos indica dice
+
+596
+00:22:34,940 --> 00:22:36,940
+para la sociedad administradora de fondos de pensiones
+
+597
+00:22:36,940 --> 00:22:38,940
+y santías por venir es de grato
+
+598
+00:22:38,940 --> 00:22:40,940
+comunicarle que se han reunido
+
+599
+00:22:40,940 --> 00:22:42,940
+los requisitos de ley para acceder al reconocimiento
+
+600
+00:22:42,940 --> 00:22:44,940
+de beneficio pensional por usted solicitado
+
+601
+00:22:44,940 --> 00:22:46,940
+en consecuencia procedemos a realizar
+
+602
+00:22:46,940 --> 00:22:48,940
+el pago de la pensión de sobrevivientes
+
+603
+00:22:48,940 --> 00:22:50,940
+a partir del primero de agosto del año 2000
+
+604
+00:22:50,940 --> 00:22:52,940
+del año 2000
+
+605
+00:22:52,940 --> 00:22:54,940
+cabe anotar que la liquidación
+
+606
+00:22:54,940 --> 00:22:56,940
+del pago de la pensión está en la documentación
+
+607
+00:22:56,940 --> 00:22:58,940
+entregada por usted en la cual se deducen lo siguiente
+
+608
+00:22:58,940 --> 00:23:00,940
+dice que el monte de pensiones
+
+609
+00:23:00,940 --> 00:23:02,940
+será el 45% del ingreso base de liquidación
+
+610
+00:23:02,940 --> 00:23:04,940
+el cual asciende a 2 millones
+
+611
+00:23:04,940 --> 00:23:06,940
+43.198 pesos
+
+612
+00:23:06,940 --> 00:23:08,940
+y que corresponde a un total
+
+613
+00:23:08,940 --> 00:23:10,940
+de 1.215
+
+614
+00:23:10,940 --> 00:23:12,940
+días
+
+615
+00:23:12,940 --> 00:23:14,940
+de cotizaciones al sistema general de pensiones
+
+616
+00:23:14,940 --> 00:23:16,940
+de acuerdo con lo establecido
+
+617
+00:23:16,940 --> 00:23:18,940
+en el artículo 21
+
+618
+00:23:18,940 --> 00:23:20,940
+de la ley 100
+
+619
+00:23:20,940 --> 00:23:22,940
+de 1993
+
+620
+00:23:22,940 --> 00:23:24,940
+esta norma nos indica
+
+621
+00:23:24,940 --> 00:23:26,940
+que se entiende
+
+622
+00:23:26,940 --> 00:23:28,940
+por ingreso base
+
+623
+00:23:28,940 --> 00:23:30,940
+para liquidar las pensiones
+
+624
+00:23:30,940 --> 00:23:32,940
+previstas en esa ley
+
+625
+00:23:32,940 --> 00:23:34,940
+en la ley 100 de 1993
+
+626
+00:23:34,940 --> 00:23:36,940
+el promedio de los salarios o rentas
+
+627
+00:23:36,940 --> 00:23:38,940
+sobre los cuales ha cotizado
+
+628
+00:23:38,940 --> 00:23:40,940
+el afiliado durante los 10 años
+
+629
+00:23:40,940 --> 00:23:42,940
+anteriores
+
+630
+00:23:42,940 --> 00:23:44,940
+el reconocimiento de la
+
+631
+00:23:44,940 --> 00:23:46,940
+pensión
+
+632
+00:23:46,940 --> 00:23:48,940
+o todo el tiempo
+
+633
+00:23:48,940 --> 00:23:50,940
+si este fuera inferior
+
+634
+00:23:52,940 --> 00:23:54,940
+sobrevivencia en este caso
+
+635
+00:23:54,940 --> 00:23:56,940
+señala claramente por venir
+
+636
+00:23:56,940 --> 00:23:58,940
+que lo único que tuvo en cuenta para el reconocimiento
+
+637
+00:23:58,940 --> 00:24:00,940
+pensional sería
+
+638
+00:24:00,940 --> 00:24:02,940
+las cotizaciones desde su afiliación
+
+639
+00:24:02,940 --> 00:24:04,940
+1.215 días
+
+640
+00:24:04,940 --> 00:24:06,940
+aproximadamente 2 años
+
+641
+00:24:06,940 --> 00:24:08,940
+perdón
+
+642
+00:24:08,940 --> 00:24:10,940
+1.215 días
+
+643
+00:24:10,940 --> 00:24:12,940
+aproximadamente
+
+644
+00:24:12,940 --> 00:24:14,940
+serían
+
+645
+00:24:16,940 --> 00:24:18,940
+aportes
+
+646
+00:24:18,940 --> 00:24:20,940
+tenidos en cuenta para el reconocimiento
+
+647
+00:24:20,940 --> 00:24:22,940
+pensional
+
+648
+00:24:22,940 --> 00:24:24,940
+refiere allí
+
+649
+00:24:24,940 --> 00:24:26,940
+este
+
+650
+00:24:26,940 --> 00:24:28,940
+retroactivo y frente a los beneficiarios
+
+651
+00:24:28,940 --> 00:24:30,940
+refiere que es una norma fonsica como
+
+652
+00:24:30,940 --> 00:24:32,940
+cónyuge
+
+653
+00:24:32,940 --> 00:24:34,940
+como dejó
+
+654
+00:24:34,940 --> 00:24:36,940
+ese reconocimiento
+
+655
+00:24:36,940 --> 00:24:38,940
+que pretende por venir
+
+656
+00:24:38,940 --> 00:24:40,940
+que sea revocado
+
+657
+00:24:40,940 --> 00:24:42,940
+dentro de este procedimiento
+
+658
+00:24:42,940 --> 00:24:44,940
+desde esa respectiva entrada con la valoración
+
+659
+00:24:44,940 --> 00:24:46,940
+de los
+
+660
+00:24:46,940 --> 00:24:48,940
+documentos puede concluir
+
+661
+00:24:48,940 --> 00:24:50,940
+que existirían
+
+662
+00:24:50,940 --> 00:24:52,940
+dos reconocimientos pensionales
+
+663
+00:24:52,940 --> 00:24:54,940
+sin embargo
+
+664
+00:24:54,940 --> 00:24:56,940
+pues no puede establecer
+
+665
+00:24:56,940 --> 00:24:58,940
+el despacho o no concluye el
+
+666
+00:24:58,940 --> 00:25:00,940
+juzgado que se trate de
+
+667
+00:25:00,940 --> 00:25:02,940
+reconocimientos que tengan el mismo origen
+
+668
+00:25:02,940 --> 00:25:04,940
+como señalamos previamente
+
+669
+00:25:04,940 --> 00:25:06,940
+el reconocimiento de colpensiones
+
+670
+00:25:06,940 --> 00:25:08,940
+viene soportado
+
+671
+00:25:08,940 --> 00:25:10,940
+en una causación de un derecho
+
+672
+00:25:10,940 --> 00:25:12,940
+previo a la ley 100 de 1993
+
+673
+00:25:12,940 --> 00:25:14,940
+que se ha asumido
+
+674
+00:25:14,940 --> 00:25:16,940
+por el instituto de seguros sociales en su momento
+
+675
+00:25:16,940 --> 00:25:18,940
+y este reconocimiento
+
+676
+00:25:18,940 --> 00:25:20,940
+que ha hecho
+
+677
+00:25:20,940 --> 00:25:22,940
+por venir dentro de
+
+678
+00:25:22,940 --> 00:25:24,940
+en el año 2009
+
+679
+00:25:24,940 --> 00:25:26,940
+se comunicó
+
+680
+00:25:26,940 --> 00:25:28,940
+por por venir
+
+681
+00:25:28,940 --> 00:25:30,940
+tiene en cuenta exclusivamente los aportes
+
+682
+00:25:30,940 --> 00:25:32,940
+a las pensiones que se habían realizado con posterioridad de evidencia
+
+683
+00:25:32,940 --> 00:25:34,940
+la ley 100 de 1993
+
+684
+00:25:34,940 --> 00:25:36,940
+y esa situación
+
+685
+00:25:36,940 --> 00:25:38,940
+implicaría
+
+686
+00:25:38,940 --> 00:25:40,940
+o
+
+687
+00:25:40,940 --> 00:25:42,940
+más bien nos permitiría
+
+688
+00:25:42,940 --> 00:25:44,940
+argumento o
+
+689
+00:25:44,940 --> 00:25:46,940
+plantear de entrada
+
+690
+00:25:46,940 --> 00:25:48,940
+pues que no se trata de unos reconocimientos
+
+691
+00:25:48,940 --> 00:25:50,940
+iénicos o que tengan
+
+692
+00:25:50,940 --> 00:25:52,940
+el mismo origen
+
+693
+00:25:52,940 --> 00:25:54,940
+por tanto pues eventualmente podrían ser
+
+694
+00:25:54,940 --> 00:25:56,940
+compatibles de acuerdo con las disposiciones
+
+695
+00:25:56,940 --> 00:25:58,940
+y jubiles provinciales que ya no han
+
+696
+00:25:58,940 --> 00:26:00,940
+referido el apoderado a la parte
+
+697
+00:26:00,940 --> 00:26:02,940
+de ganada
+
+698
+00:26:02,940 --> 00:26:04,940
+en atención a que pues podría concluir
+
+699
+00:26:04,940 --> 00:26:06,940
+el despacho del reconocimiento
+
+700
+00:26:06,940 --> 00:26:08,940
+de pensional hecho por el instituto de
+
+701
+00:26:08,940 --> 00:26:10,940
+seguros sociales
+
+702
+00:26:10,940 --> 00:26:12,940
+se basó o fue causado inclusive
+
+703
+00:26:12,940 --> 00:26:14,940
+con relación a la entrada
+
+704
+00:26:14,940 --> 00:26:16,940
+en vigencia de la ley 100 de 1993
+
+705
+00:26:16,940 --> 00:26:18,940
+y si ya
+
+706
+00:26:18,940 --> 00:26:20,940
+se fue compatible con el
+
+707
+00:26:20,940 --> 00:26:22,940
+momento de pensión
+
+708
+00:26:22,940 --> 00:26:24,940
+derivada de la ley 100 de 1993
+
+709
+00:26:24,940 --> 00:26:26,940
+atendiendo
+
+710
+00:26:26,940 --> 00:26:28,940
+a los aportes que
+
+711
+00:26:28,940 --> 00:26:30,940
+haya realizado el fallecido
+
+712
+00:26:30,940 --> 00:26:32,940
+Francisco Antonio
+
+713
+00:26:32,940 --> 00:26:34,940
+a su
+
+714
+00:26:34,940 --> 00:26:36,940
+su
+
+715
+00:26:36,940 --> 00:26:38,940
+con fil English
+
+716
+00:26:38,940 --> 00:26:40,940
+o hiring
+
+717
+00:26:40,940 --> 00:26:42,940
+y el
+
+718
+00:26:42,940 --> 00:26:44,940
+apoderado de la parte
+
+719
+00:26:44,940 --> 00:26:47,940
+demandada
+
+720
+00:26:53,940 --> 00:27:02,940
+y a re
+
+721
+00:27:02,940 --> 00:27:04,940
+entonces la argumentación
+
+722
+00:27:04,940 --> 00:27:09,840
+documentación, ¿Qué? Bueno,
+
+723
+00:27:09,940 --> 00:27:12,940
+tenemos que se vincula, Gustavo,
+
+724
+00:27:13,000 --> 00:27:14,480
+nuevamente. Entonces, ya está
+
+725
+00:27:14,540 --> 00:27:16,880
+nuevamente vinculada, apoderada
+
+726
+00:27:16,940 --> 00:27:19,380
+de la parte demandada, entonces,
+
+727
+00:27:19,440 --> 00:27:20,920
+reitero, lo que incluye el
+
+728
+00:27:20,980 --> 00:27:22,420
+despacho con esa documental es
+
+729
+00:27:22,480 --> 00:27:23,460
+que el conocimiento de
+
+730
+00:27:23,520 --> 00:27:24,960
+institutos de seguros sociales
+
+731
+00:27:25,020 --> 00:27:27,260
+se funda en cuestiones e
+
+732
+00:27:27,320 --> 00:27:29,360
+inclusive previas a la entrada
+
+733
+00:27:29,420 --> 00:27:30,860
+en vigencia de la ley cien de
+
+734
+00:27:30,920 --> 00:27:32,360
+mil novecientos noventa y tres,
+
+735
+00:27:32,420 --> 00:27:33,900
+se establecen esos mismos
+
+736
+00:27:33,900 --> 00:27:37,860
+documentales que hace por venir,
+
+737
+00:27:37,920 --> 00:27:39,300
+se basa únicamente en los mil
+
+738
+00:27:39,360 --> 00:27:40,800
+doscientos quince días de
+
+739
+00:27:40,860 --> 00:27:43,000
+cotizaciones que habrían tenido
+
+740
+00:27:43,060 --> 00:27:44,000
+lugar con posterior a la
+
+741
+00:27:44,060 --> 00:27:45,540
+afiliación del demandante,
+
+742
+00:27:45,600 --> 00:27:46,940
+bien, con posterioridad a la
+
+743
+00:27:47,000 --> 00:27:48,140
+entrada en vigencia de la ley
+
+744
+00:27:48,200 --> 00:27:49,080
+cien de mil novecientos noventa
+
+745
+00:27:49,140 --> 00:27:50,300
+y tres, en la cual, pues, el
+
+746
+00:27:50,380 --> 00:27:51,880
+demandante estaría a fondo
+
+747
+00:27:51,940 --> 00:27:53,280
+privado de pensiones, le va a
+
+748
+00:27:53,340 --> 00:27:55,180
+dar los argumentos planteados
+
+749
+00:27:55,240 --> 00:27:58,820
+por por venir de cara a atacado
+
+750
+00:27:58,880 --> 00:28:01,820
+a que se revoque el reconocimiento
+
+751
+00:28:02,140 --> 00:28:07,280
+de los regímenes se proyectan a
+
+752
+00:28:07,340 --> 00:28:09,820
+lo establecido en los artículos
+
+753
+00:28:09,880 --> 00:28:11,320
+diecisiete de la ley cien de
+
+754
+00:28:11,380 --> 00:28:12,820
+mil novecientos noventa y tres
+
+755
+00:28:12,880 --> 00:28:14,620
+y el artículo sesenta y uno es
+
+756
+00:28:14,680 --> 00:28:16,120
+misma nativa, esta norma nos
+
+757
+00:28:16,180 --> 00:28:17,760
+insiste en lo siguiente. El
+
+758
+00:28:17,820 --> 00:28:19,460
+primero de ellos, la vigencia de
+
+759
+00:28:19,520 --> 00:28:20,760
+la relación oral del contrato
+
+760
+00:28:20,820 --> 00:28:21,960
+de prestación de servicios de
+
+761
+00:28:22,020 --> 00:28:23,160
+gran efecto hace conciudes a
+
+762
+00:28:23,220 --> 00:28:24,760
+los regímenes de sistema
+
+763
+00:28:24,820 --> 00:28:26,660
+general de pensiones, un parte
+
+764
+00:28:26,740 --> 00:28:28,400
+de los afiliados y los
+
+765
+00:28:28,460 --> 00:28:29,900
+empleados, los empleadores y
+
+766
+00:28:29,960 --> 00:28:31,700
+contratistas con base en salario
+
+767
+00:28:31,820 --> 00:28:33,460
+de servicio de servicio que
+
+768
+00:28:33,520 --> 00:28:35,520
+aquellos deben de, dice que la
+
+769
+00:28:35,580 --> 00:28:37,180
+obligación de codizar cesa al
+
+770
+00:28:37,260 --> 00:28:38,820
+momento en que el afiliado
+
+771
+00:28:38,880 --> 00:28:39,660
+reúna los requisitos para
+
+772
+00:28:39,720 --> 00:28:41,120
+acceder a la pensión mínima de
+
+773
+00:28:41,200 --> 00:28:43,640
+enegés, cuando el afiliado se
+
+774
+00:28:43,700 --> 00:28:47,540
+excepciona por invalidez o
+
+775
+00:28:47,600 --> 00:28:49,100
+anticipadamente. Lo anterior
+
+776
+00:28:49,160 --> 00:28:50,500
+se refleja en los aportes
+
+777
+00:28:50,560 --> 00:28:52,740
+voluntarios que decida continuar
+
+778
+00:28:52,800 --> 00:28:55,340
+efectuando el afiliado o el
+
+779
+00:28:55,400 --> 00:28:56,680
+empleador a dichos regímenes.
+
+780
+00:28:56,740 --> 00:28:57,940
+Entonces, esa norma
+
+781
+00:28:58,020 --> 00:29:00,380
+inicialmente, de manera alguna,
+
+782
+00:29:00,380 --> 00:29:05,320
+que no es una prohibición para
+
+783
+00:29:05,380 --> 00:29:06,920
+personas eh eventualmente
+
+784
+00:29:06,980 --> 00:29:09,320
+presionadas o personas que se
+
+785
+00:29:09,380 --> 00:29:10,420
+encuentren en alguna de las
+
+786
+00:29:10,480 --> 00:29:12,020
+situaciones referidas en esa
+
+787
+00:29:12,080 --> 00:29:14,460
+norma para continuar afiliado al
+
+788
+00:29:14,520 --> 00:29:17,820
+sistema es una decisión eh
+
+789
+00:29:17,900 --> 00:29:20,300
+afiliadas eh si continúan o no
+
+790
+00:29:20,360 --> 00:29:22,300
+haciendo los aportes de manera
+
+791
+00:29:22,360 --> 00:29:25,300
+que no sería soporte para o
+
+792
+00:29:25,360 --> 00:29:26,800
+esa normativa eh inicialmente
+
+793
+00:29:26,860 --> 00:29:28,300
+pues no sería soporte para
+
+794
+00:29:29,200 --> 00:29:32,760
+Antonio Arenas Aragón como
+
+795
+00:29:32,820 --> 00:29:34,400
+presenta la parte acciónada el
+
+796
+00:29:34,460 --> 00:29:36,840
+arco no por su parte nos
+
+797
+00:29:36,900 --> 00:29:38,440
+señala que están incluidos el
+
+798
+00:29:38,500 --> 00:29:40,840
+régimen de ahorro individual
+
+799
+00:29:40,900 --> 00:29:42,280
+con los presionados por
+
+800
+00:29:42,340 --> 00:29:43,600
+invalidez por instituto de
+
+801
+00:29:43,680 --> 00:29:44,880
+seguros sociales o por
+
+802
+00:29:44,940 --> 00:29:46,380
+cualquier fondo deidad del
+
+803
+00:29:46,440 --> 00:29:48,180
+sector público sino que no
+
+804
+00:29:48,240 --> 00:29:50,180
+se acceden a dar efecto de
+
+805
+00:29:50,240 --> 00:29:51,520
+Francisco Antonio Arenas
+
+806
+00:29:51,580 --> 00:29:53,220
+Aragón para el año de su
+
+807
+00:29:53,280 --> 00:29:54,520
+nación que fue mil novecientos
+
+808
+00:29:54,580 --> 00:29:55,760
+y noventa y ocho un mes de
+
+809
+00:29:55,820 --> 00:29:57,220
+formato de fideación que
+
+810
+00:29:57,440 --> 00:30:00,280
+se hizo y en el mundo dice las
+
+811
+00:30:00,340 --> 00:30:01,780
+personas que adentrar en si el
+
+812
+00:30:01,840 --> 00:30:04,120
+sistema tuviera cincuenta y
+
+813
+00:30:04,180 --> 00:30:07,580
+cinco años o más de edad eh si
+
+814
+00:30:07,660 --> 00:30:10,060
+son hombres o cincuenta eh
+
+815
+00:30:10,120 --> 00:30:12,060
+años o más de edad si son
+
+816
+00:30:12,120 --> 00:30:15,200
+mujeres que decían cotizar por
+
+817
+00:30:15,260 --> 00:30:18,660
+lo menos eh quinientos semanas
+
+818
+00:30:18,740 --> 00:30:20,140
+en el nuevo régimen en caso de
+
+819
+00:30:20,200 --> 00:30:22,140
+en el cual será eh obligatorio
+
+820
+00:30:22,200 --> 00:30:23,640
+para el empleador efectuar los
+
+821
+00:30:23,700 --> 00:30:25,040
+aportes correspondientes
+
+822
+00:30:25,060 --> 00:30:27,900
+y por eso tiene esta eh norma
+
+823
+00:30:27,960 --> 00:30:29,500
+es que no existe obligación
+
+824
+00:30:29,560 --> 00:30:31,400
+para esas personas de continuar
+
+825
+00:30:31,460 --> 00:30:33,400
+eh cotizando sin embargo pues
+
+826
+00:30:33,460 --> 00:30:37,340
+no prohíbe esa eh afiliación
+
+827
+00:30:37,400 --> 00:30:38,840
+y pues si fueron afiliados y
+
+828
+00:30:38,900 --> 00:30:40,380
+fueron aceptadas su afiliación
+
+829
+00:30:40,440 --> 00:30:41,440
+por parte de por veneno pues
+
+830
+00:30:41,520 --> 00:30:42,920
+asumiría los riesgos que
+
+831
+00:30:42,980 --> 00:30:44,920
+pretendía amparar Francisco
+
+832
+00:30:44,980 --> 00:30:46,420
+Antonio Arenas Aragón al
+
+833
+00:30:46,480 --> 00:30:49,020
+momento de su afiliación eh y
+
+834
+00:30:49,080 --> 00:30:51,820
+pues esa normativa no impone eh
+
+835
+00:30:52,040 --> 00:30:56,540
+que se eh declara inválida la
+
+836
+00:30:56,620 --> 00:30:57,640
+afiliación de por veneno y
+
+837
+00:30:57,720 --> 00:30:59,040
+reitero esas normas que acabamos
+
+838
+00:30:59,120 --> 00:31:00,520
+de recibir establecen que no
+
+839
+00:31:00,580 --> 00:31:02,320
+existe obligación de continuar
+
+840
+00:31:02,380 --> 00:31:03,760
+eh afiliado al sistema de
+
+841
+00:31:03,820 --> 00:31:05,720
+pensiones pero no prohíbe que
+
+842
+00:31:05,780 --> 00:31:07,120
+las personas eh continúen
+
+843
+00:31:07,180 --> 00:31:08,720
+aportando para eventualmente
+
+844
+00:31:08,780 --> 00:31:10,620
+causar las prestaciones
+
+845
+00:31:10,700 --> 00:31:12,600
+derivadas de su afiliación a
+
+846
+00:31:12,660 --> 00:31:14,600
+ese régimen particularmente
+
+847
+00:31:14,660 --> 00:31:16,600
+teniendo en cuenta la afiliación
+
+848
+00:31:16,660 --> 00:31:18,000
+que hace Francisco Antonio
+
+849
+00:31:18,060 --> 00:31:20,000
+Arenas Aragón al régimen de
+
+850
+00:31:20,320 --> 00:31:23,580
+de la fiscalía civil con
+
+851
+00:31:23,660 --> 00:31:26,720
+solidaridad que eh deriva
+
+852
+00:31:26,800 --> 00:31:28,120
+exclusivamente eh el
+
+853
+00:31:28,200 --> 00:31:29,460
+reconocimiento pensionar pues
+
+854
+00:31:29,520 --> 00:31:31,460
+de sus ahorros eh individuales
+
+855
+00:31:31,520 --> 00:31:34,700
+siendo pues unos dineros eh
+
+856
+00:31:34,760 --> 00:31:36,900
+privados que se utilizarían
+
+857
+00:31:36,960 --> 00:31:37,640
+eventualmente para el
+
+858
+00:31:37,700 --> 00:31:40,300
+reconocimiento de pensión eh
+
+859
+00:31:40,360 --> 00:31:42,640
+ante la configuración de los
+
+860
+00:31:42,700 --> 00:31:45,440
+supuestos de de vejez o en este
+
+861
+00:31:45,500 --> 00:31:47,380
+caso el fallecimiento del
+
+862
+00:31:47,460 --> 00:31:50,500
+derecho de la gente. Frente a
+
+863
+00:31:50,560 --> 00:31:52,000
+la situación de la
+
+864
+00:31:52,060 --> 00:31:54,600
+compatibilidad de de pensiones
+
+865
+00:31:54,660 --> 00:31:56,440
+pues eh tenemos que pues la
+
+866
+00:31:56,500 --> 00:31:57,740
+Corte Suprema de Justicia en
+
+867
+00:31:57,800 --> 00:31:59,140
+su sola de causación eh de
+
+868
+00:31:59,200 --> 00:32:02,240
+manera eh reiterada en
+
+869
+00:32:02,300 --> 00:32:06,240
+sentencias como
+
+870
+00:32:10,340 --> 00:32:11,780
+sentencias como la SL cuatro
+
+871
+00:32:11,840 --> 00:32:12,920
+dos cincuenta y cinco de dos
+
+872
+00:32:12,980 --> 00:32:15,320
+mil la SL cinco dos eh veintiocho
+
+873
+00:32:15,320 --> 00:32:19,000
+cincuenta y ocho, reiterada en
+
+874
+00:32:19,060 --> 00:32:20,760
+las cinco SL cincuenta sesenta
+
+875
+00:32:20,840 --> 00:32:23,240
+y ocho del año dos mil diecinueve
+
+876
+00:32:23,300 --> 00:32:25,640
+ha señalado pues que la regla
+
+877
+00:32:25,700 --> 00:32:27,400
+general dentro del sistema de
+
+878
+00:32:27,480 --> 00:32:29,440
+pensiones es la incompatibilidad
+
+879
+00:32:29,500 --> 00:32:30,980
+de pensiones eh relacionadas
+
+880
+00:32:31,040 --> 00:32:32,540
+con la VG, sin embargo, pues ha
+
+881
+00:32:32,600 --> 00:32:34,220
+establecido eh como
+
+882
+00:32:34,280 --> 00:32:37,440
+excepciones las que eh se han
+
+883
+00:32:37,520 --> 00:32:38,720
+completado o en las que se han
+
+884
+00:32:38,780 --> 00:32:40,120
+completado en el Instituto de
+
+885
+00:32:40,180 --> 00:32:41,520
+Seguros Sociales previo a la
+
+886
+00:32:41,580 --> 00:32:42,520
+entrada de la invidencia a la
+
+887
+00:32:42,580 --> 00:32:43,460
+ley cien de mil novecientos
+
+888
+00:32:43,520 --> 00:32:44,960
+noventa y tres el tiempo de
+
+889
+00:32:44,960 --> 00:32:48,600
+pensiones eh y las que son
+
+890
+00:32:48,660 --> 00:32:50,400
+reconocidas por cajas de
+
+891
+00:32:50,460 --> 00:32:53,040
+previsión donde se puede
+
+892
+00:32:53,100 --> 00:32:54,540
+diferenciar claramente las
+
+893
+00:32:54,600 --> 00:32:56,640
+fuentes de financiamiento al
+
+894
+00:32:56,700 --> 00:32:57,980
+respecto pues ha señalado la
+
+895
+00:32:58,040 --> 00:32:58,780
+corte en las entesas que
+
+896
+00:32:58,840 --> 00:33:01,280
+acabamos eh de reseñar,
+
+897
+00:33:01,340 --> 00:33:02,780
+abrocomillas, dice, frente a los
+
+898
+00:33:02,840 --> 00:33:04,380
+reproches jurídicos endilgados
+
+899
+00:33:04,440 --> 00:33:06,020
+por la censura, cabe destacar
+
+900
+00:33:06,080 --> 00:33:06,720
+que actualmente la
+
+901
+00:33:06,780 --> 00:33:07,680
+jurisprudencia de esta
+
+902
+00:33:07,760 --> 00:33:08,820
+corporación sostiene que la
+
+903
+00:33:08,880 --> 00:33:10,720
+regla general del sistema de
+
+904
+00:33:10,780 --> 00:33:11,720
+pensiones dispuesto en la ley
+
+905
+00:33:11,780 --> 00:33:12,820
+cien de mil novecientos noventa
+
+906
+00:33:12,880 --> 00:33:14,720
+y tres es la incompatibilidad
+
+907
+00:33:14,720 --> 00:33:15,680
+de las dos prestaciones que
+
+908
+00:33:15,760 --> 00:33:16,880
+amparen la misma contingencia
+
+909
+00:33:16,960 --> 00:33:18,360
+en virtud de los principios de
+
+910
+00:33:18,420 --> 00:33:19,760
+universalidad, solidaridad, y
+
+911
+00:33:19,820 --> 00:33:21,920
+unidad que gobiernan el mismo,
+
+912
+00:33:22,000 --> 00:33:23,920
+los cuales impiden que un mismo
+
+913
+00:33:24,000 --> 00:33:25,400
+afiliado perciba dos
+
+914
+00:33:25,460 --> 00:33:26,560
+prestaciones que cubran el
+
+915
+00:33:26,640 --> 00:33:28,060
+mismo riesgo máximo que dicha
+
+916
+00:33:28,140 --> 00:33:28,940
+normativa permite la
+
+917
+00:33:29,000 --> 00:33:30,660
+acumulación de cotizaciones
+
+918
+00:33:30,740 --> 00:33:32,040
+indistintamente de su
+
+919
+00:33:32,100 --> 00:33:33,900
+procedencia o origen para
+
+920
+00:33:33,980 --> 00:33:35,980
+efectos de aumentar el valor
+
+921
+00:33:36,040 --> 00:33:37,840
+base de la liquidación. De
+
+922
+00:33:37,900 --> 00:33:39,140
+igual forma, en relación con
+
+923
+00:33:39,200 --> 00:33:40,380
+las pensiones de jubilación
+
+924
+00:33:40,440 --> 00:33:41,280
+derivadas de servicios
+
+925
+00:33:41,340 --> 00:33:42,540
+prestados al estado, tal como
+
+926
+00:33:42,620 --> 00:33:43,940
+los previstas en la en la ley
+
+927
+00:33:43,940 --> 00:33:44,940
+cien de mil novecientos ochenta
+
+928
+00:33:45,000 --> 00:33:47,240
+y cinco, la sala ha predicado
+
+929
+00:33:47,300 --> 00:33:48,840
+que podrían llegar a ser
+
+930
+00:33:48,900 --> 00:33:50,300
+compatibles con las prestaciones
+
+931
+00:33:50,380 --> 00:33:51,480
+generadas por cotizaciones del
+
+932
+00:33:51,540 --> 00:33:52,580
+instituto de seguro social de
+
+933
+00:33:52,640 --> 00:33:54,880
+siempre y cuando el tiempo de
+
+934
+00:33:54,940 --> 00:33:57,480
+servicios sea completado antes
+
+935
+00:33:57,540 --> 00:33:58,920
+de la entrada en vigencia de la
+
+936
+00:33:58,980 --> 00:34:00,160
+ley cien de mil novecientos
+
+937
+00:34:00,220 --> 00:34:01,460
+noventa y tres. Cuando se
+
+938
+00:34:01,520 --> 00:34:02,780
+trate de una o cuando se
+
+939
+00:34:02,860 --> 00:34:03,560
+trata de una prestación
+
+940
+00:34:03,620 --> 00:34:05,260
+reconocida a través de cajas de
+
+941
+00:34:05,320 --> 00:34:06,820
+previsión donde claramente hay
+
+942
+00:34:06,900 --> 00:34:08,400
+una diferenciación de fuentes
+
+943
+00:34:08,460 --> 00:34:09,520
+de financiamiento. Entonces lo
+
+944
+00:34:09,600 --> 00:34:11,460
+que tiene claro o lo que se
+
+945
+00:34:11,460 --> 00:34:14,220
+considera que se procedería
+
+946
+00:34:14,280 --> 00:34:15,660
+de la del desarrollo
+
+947
+00:34:15,720 --> 00:34:16,960
+jurisprudencial que ha hecho la
+
+948
+00:34:17,020 --> 00:34:18,660
+Corte Suprema de Justicia en
+
+949
+00:34:18,720 --> 00:34:22,160
+este sentido es que eh es
+
+950
+00:34:22,220 --> 00:34:25,260
+viable eh el disfrute de dos
+
+951
+00:34:25,340 --> 00:34:26,740
+reconocimientos de naturaleza
+
+952
+00:34:26,800 --> 00:34:28,140
+pensional siempre y cuando
+
+953
+00:34:28,200 --> 00:34:30,340
+pues se pueda establecer pues
+
+954
+00:34:30,400 --> 00:34:32,340
+una fuente de financiación
+
+955
+00:34:32,400 --> 00:34:33,900
+totalmente diferente, era
+
+956
+00:34:33,980 --> 00:34:35,340
+carga de la administradora de
+
+957
+00:34:35,400 --> 00:34:36,840
+fondos de pensiones por venir
+
+958
+00:34:36,900 --> 00:34:38,380
+pues a acreditar dentro de este
+
+959
+00:34:38,440 --> 00:34:39,940
+procedimiento que se trataba de
+
+960
+00:34:40,160 --> 00:34:41,400
+que los beneficios que estuvieran
+
+961
+00:34:41,460 --> 00:34:43,300
+siendo financiados por la misma
+
+962
+00:34:43,360 --> 00:34:47,000
+eh por el mismo eh dinero eh de
+
+963
+00:34:47,060 --> 00:34:48,540
+punto de las mismas fuentes de
+
+964
+00:34:48,600 --> 00:34:50,300
+financiación eh cuestión que es
+
+965
+00:34:50,380 --> 00:34:51,940
+que no se logra establecer
+
+966
+00:34:52,000 --> 00:34:53,280
+dentro de este procedimiento al
+
+967
+00:34:53,340 --> 00:34:55,240
+contrario pues se puede eh
+
+968
+00:34:55,320 --> 00:34:56,340
+establecer como señalamos
+
+969
+00:34:56,420 --> 00:34:57,320
+previamente que desde el mismo
+
+970
+00:34:57,380 --> 00:34:58,320
+reconocimiento que hace el
+
+971
+00:34:58,380 --> 00:34:59,620
+instituto de seguros sociales
+
+972
+00:34:59,680 --> 00:35:01,220
+se puede concluir que el
+
+973
+00:35:01,280 --> 00:35:02,620
+reconocimiento pensional eh
+
+974
+00:35:02,680 --> 00:35:03,420
+recibido en el año mil
+
+975
+00:35:03,480 --> 00:35:05,220
+novecientos noventa y ocho por
+
+976
+00:35:05,280 --> 00:35:06,820
+parte del fallecido Francisco
+
+977
+00:35:06,900 --> 00:35:10,180
+Pérez Arenas eh tenía como
+
+978
+00:35:10,240 --> 00:35:12,880
+soporte la eh el cumplimiento de
+
+979
+00:35:12,940 --> 00:35:14,880
+requisitos en ese momento en
+
+980
+00:35:14,940 --> 00:35:15,820
+año noventa y nueve fue el
+
+981
+00:35:15,880 --> 00:35:17,220
+reconocimiento pensional perdón
+
+982
+00:35:17,280 --> 00:35:19,380
+y eh igualmente en el
+
+983
+00:35:19,460 --> 00:35:20,980
+reconocimiento que hace por
+
+984
+00:35:21,060 --> 00:35:22,860
+venir es claro que lo único que
+
+985
+00:35:22,920 --> 00:35:24,060
+tiene en cuenta pues son las
+
+986
+00:35:24,120 --> 00:35:27,220
+últimas mil doscientos eh un
+
+987
+00:35:27,300 --> 00:35:29,060
+verificó nuevamente el dato
+
+988
+00:35:29,120 --> 00:35:31,100
+dice el acto del
+
+989
+00:35:31,160 --> 00:35:32,300
+reconocimiento que se encuentra
+
+990
+00:35:32,360 --> 00:35:34,300
+incorporado en el archivo nueve
+
+991
+00:35:34,520 --> 00:35:36,820
+que es el expediente aportado
+
+992
+00:35:36,880 --> 00:35:39,020
+por la misma parte eh demandada
+
+993
+00:35:39,080 --> 00:35:40,120
+que allí se tuvo en cuenta
+
+994
+00:35:40,180 --> 00:35:41,520
+únicamente un total de mil
+
+995
+00:35:41,580 --> 00:35:42,760
+doscientos quince días de
+
+996
+00:35:42,820 --> 00:35:43,860
+cotización del sistema general
+
+997
+00:35:43,920 --> 00:35:45,500
+de seguridad social en pensiones
+
+998
+00:35:45,560 --> 00:35:47,300
+en esa medida pues se encuentra
+
+999
+00:35:47,360 --> 00:35:48,740
+que la fuente de financiación
+
+1000
+00:35:48,800 --> 00:35:51,540
+de manera eh alguna eh puede
+
+1001
+00:35:51,600 --> 00:35:53,340
+predicarse como idéntica eh
+
+1002
+00:35:53,400 --> 00:35:55,640
+tendrían dos eh fuentes de
+
+1003
+00:35:55,700 --> 00:35:56,840
+financiación distinta y pues
+
+1004
+00:35:56,900 --> 00:35:58,440
+por tanto atendiendo lo que ha
+
+1005
+00:35:58,500 --> 00:36:00,240
+referido la Corte Suprema de
+
+1006
+00:36:00,300 --> 00:36:01,240
+Justicia en su sala de
+
+1007
+00:36:01,300 --> 00:36:02,780
+casación laboral serían unos
+
+1008
+00:36:03,060 --> 00:36:04,660
+eh estos son unas prestaciones
+
+1009
+00:36:04,720 --> 00:36:06,760
+que eh resultan compatibles
+
+1010
+00:36:06,820 --> 00:36:08,500
+dentro del sistema de
+
+1011
+00:36:08,560 --> 00:36:11,900
+pensiones por lo anterior pues
+
+1012
+00:36:11,960 --> 00:36:14,740
+no se encuentra eh justificadas
+
+1013
+00:36:14,800 --> 00:36:19,140
+las reclamaciones de el fondo
+
+1014
+00:36:19,200 --> 00:36:21,580
+eh demandante eh bueno hay otra
+
+1015
+00:36:21,640 --> 00:36:23,240
+situación relacionada con la
+
+1016
+00:36:23,300 --> 00:36:26,880
+procedencia de los recursos de
+
+1017
+00:36:26,940 --> 00:36:29,180
+o la imposibilidad de recibir
+
+1018
+00:36:29,240 --> 00:36:31,420
+dos eh reconocimientos
+
+1019
+00:36:31,500 --> 00:36:33,760
+de fuentes públicas señala la
+
+1020
+00:36:33,820 --> 00:36:36,800
+parte eh demandante en su
+
+1021
+00:36:36,860 --> 00:36:40,240
+escrito de demanda como
+
+1022
+00:36:40,300 --> 00:36:41,540
+fundamentación también de su
+
+1023
+00:36:41,600 --> 00:36:43,240
+reclamación al respecto pues es
+
+1024
+00:36:43,300 --> 00:36:47,280
+claro eh que eh los dineros de
+
+1025
+00:36:47,340 --> 00:36:49,380
+pensiones pues no son dineros eh
+
+1026
+00:36:49,440 --> 00:36:50,880
+de naturaleza pública en
+
+1027
+00:36:50,940 --> 00:36:52,680
+particular menos aún los que
+
+1028
+00:36:52,740 --> 00:36:54,380
+están en los fondos privados de
+
+1029
+00:36:54,440 --> 00:36:55,880
+pensiones que corresponden o se
+
+1030
+00:36:55,940 --> 00:36:57,820
+derivarían exclusivamente de los
+
+1031
+00:36:57,880 --> 00:36:59,960
+ahorros individuales de los
+
+1032
+00:37:00,000 --> 00:37:02,800
+pensiones eh pues en este caso
+
+1033
+00:37:02,860 --> 00:37:05,460
+de los eh derivados de las
+
+1034
+00:37:05,540 --> 00:37:06,640
+primas de aseguramiento de los
+
+1035
+00:37:06,700 --> 00:37:09,240
+seguros previsionales que eh
+
+1036
+00:37:09,300 --> 00:37:11,480
+amparan los riesgos de vejez y
+
+1037
+00:37:11,540 --> 00:37:12,480
+muerte de los afiliados para
+
+1038
+00:37:12,540 --> 00:37:13,880
+efecto del reconocimiento
+
+1039
+00:37:13,940 --> 00:37:15,880
+pensional eh al respecto pues
+
+1040
+00:37:15,940 --> 00:37:17,080
+también la Corte Suprema de
+
+1041
+00:37:17,140 --> 00:37:18,880
+Justicia se ha pronunciado en
+
+1042
+00:37:18,940 --> 00:37:22,280
+reiteradas oportunidades
+
+1043
+00:37:22,360 --> 00:37:25,280
+precisando
+
+1044
+00:37:29,960 --> 00:37:32,960
+precisamente
+
+1045
+00:37:42,540 --> 00:37:44,340
+eh precisando particularmente
+
+1046
+00:37:44,400 --> 00:37:45,840
+como la sentencia SL veintiuno
+
+1047
+00:37:45,900 --> 00:37:46,940
+setenta en el año dos mil
+
+1048
+00:37:47,000 --> 00:37:47,940
+diecinueve que conforme a
+
+1049
+00:37:48,000 --> 00:37:49,880
+cumplirse eh o hace referencia
+
+1050
+00:37:49,940 --> 00:37:52,320
+esta eh providencia dice en la
+
+1051
+00:37:52,380 --> 00:37:54,280
+línea transcrita eh se
+
+1052
+00:37:54,340 --> 00:37:55,820
+adocprinó que conforme a con
+
+1053
+00:37:55,880 --> 00:37:56,680
+el artículo ciento veintiocho
+
+1054
+00:37:56,760 --> 00:37:57,880
+de la Constitución Política se
+
+1055
+00:37:57,960 --> 00:37:59,320
+entiende que el porte suelo
+
+1056
+00:37:59,320 --> 00:38:00,280
+de la Constitución Política
+
+1057
+00:38:00,340 --> 00:38:02,080
+es el presidente de la nación eh
+
+1058
+00:38:02,140 --> 00:38:03,820
+entidades territoriales eh
+
+1059
+00:38:03,880 --> 00:38:05,120
+descentralizadas en este
+
+1060
+00:38:05,180 --> 00:38:06,560
+sentido eh se pagan con tales
+
+1061
+00:38:06,620 --> 00:38:07,360
+recursos las pensiones de
+
+1062
+00:38:07,420 --> 00:38:08,360
+jubilación a cargo de
+
+1063
+00:38:08,420 --> 00:38:09,360
+entidades descentralizadas como
+
+1064
+00:38:09,420 --> 00:38:10,760
+establecimientos públicos, las
+
+1065
+00:38:10,820 --> 00:38:11,500
+empresas, industrias y
+
+1066
+00:38:11,560 --> 00:38:12,720
+comerciales del estado, las
+
+1067
+00:38:12,800 --> 00:38:14,200
+sociedades de economía mixta
+
+1068
+00:38:14,260 --> 00:38:15,600
+en las que predomine el capital
+
+1069
+00:38:15,660 --> 00:38:17,000
+estatal y en consecuencia una
+
+1070
+00:38:17,060 --> 00:38:18,440
+pensión de jubilación otorgada
+
+1071
+00:38:18,500 --> 00:38:20,040
+por un empleador oficial eh
+
+1072
+00:38:20,100 --> 00:38:21,740
+pues es eh incompatible con la
+
+1073
+00:38:21,800 --> 00:38:22,940
+percepción de otra asignación
+
+1074
+00:38:23,000 --> 00:38:25,600
+que provenga del erario eh
+
+1075
+00:38:25,680 --> 00:38:26,880
+conforme a la prohibición legal
+
+1076
+00:38:26,940 --> 00:38:28,380
+y constitucional. Sin embargo,
+
+1077
+00:38:28,400 --> 00:38:29,380
+la pensión se consigue
+
+1078
+00:38:29,440 --> 00:38:30,400
+únicamente en virtud de los
+
+1079
+00:38:30,480 --> 00:38:31,880
+servicios prestados al estado
+
+1080
+00:38:31,940 --> 00:38:34,380
+eh y la eh y la de vejez por
+
+1081
+00:38:34,440 --> 00:38:36,240
+contar con semanas exigidas por
+
+1082
+00:38:36,320 --> 00:38:37,820
+la ley eh derivadas de los
+
+1083
+00:38:37,880 --> 00:38:38,580
+servicios prestados
+
+1084
+00:38:38,640 --> 00:38:39,580
+exclusivamente en el sector
+
+1085
+00:38:39,660 --> 00:38:40,720
+privado, estos reúnen
+
+1086
+00:38:40,780 --> 00:38:42,480
+plenamente perdón, resultan
+
+1087
+00:38:42,560 --> 00:38:43,980
+plenamente compatibles en
+
+1088
+00:38:44,060 --> 00:38:45,860
+virtud a que las pensiones de
+
+1089
+00:38:45,920 --> 00:38:46,900
+vejez reconocidas por
+
+1090
+00:38:46,960 --> 00:38:47,900
+institutos de seguros sociales
+
+1091
+00:38:47,960 --> 00:38:49,300
+hoy colpensiones no son una
+
+1092
+00:38:49,360 --> 00:38:50,300
+asignación proveniente del
+
+1093
+00:38:50,360 --> 00:38:53,500
+erario por ser eh este tan solo
+
+1094
+00:38:53,560 --> 00:38:56,240
+un administrador de manera eh
+
+1095
+00:38:56,300 --> 00:38:57,100
+que la prohibición del
+
+1096
+00:38:57,320 --> 00:38:58,600
+reglamento veintiocho de la
+
+1097
+00:38:58,660 --> 00:39:00,120
+constitución no es aplicable en
+
+1098
+00:39:00,200 --> 00:39:02,600
+estos eventos que ocurre igual
+
+1099
+00:39:02,660 --> 00:39:04,600
+en esta oportunidad. En la
+
+1100
+00:39:04,660 --> 00:39:07,060
+financiación reiteramos de la
+
+1101
+00:39:07,140 --> 00:39:08,940
+pensión reconocida por el
+
+1102
+00:39:09,000 --> 00:39:10,180
+Instituto de Seguros Sociales
+
+1103
+00:39:10,240 --> 00:39:11,800
+de vendría de los aportes
+
+1104
+00:39:11,880 --> 00:39:14,300
+realizados eh durante su
+
+1105
+00:39:14,380 --> 00:39:16,980
+vinculación laboral eh por
+
+1106
+00:39:17,040 --> 00:39:19,820
+parte del fallecido Francisco
+
+1107
+00:39:19,880 --> 00:39:22,420
+Antonio Arenas eh hasta el
+
+1108
+00:39:22,480 --> 00:39:23,520
+reconocimiento pensional en el
+
+1109
+00:39:23,580 --> 00:39:24,380
+año mil novecientos noventa y
+
+1110
+00:39:24,460 --> 00:39:25,480
+nueve por parte del Instituto
+
+1111
+00:39:25,700 --> 00:39:28,440
+de Seguros Sociales y el otro
+
+1112
+00:39:28,500 --> 00:39:30,940
+reconocimiento pues se
+
+1113
+00:39:31,000 --> 00:39:32,380
+derivaría eh de los ahorros
+
+1114
+00:39:32,440 --> 00:39:33,880
+individuales eventualmente los
+
+1115
+00:39:33,940 --> 00:39:35,440
+seguros que para el efecto
+
+1116
+00:39:35,520 --> 00:39:36,920
+habría adquirido el Fondo
+
+1117
+00:39:36,980 --> 00:39:38,420
+Privado de Pensiones de manera
+
+1118
+00:39:38,480 --> 00:39:39,920
+que no se trata o no se puede
+
+1119
+00:39:39,980 --> 00:39:42,120
+predicar de estos eh dineros
+
+1120
+00:39:42,180 --> 00:39:44,920
+naturales a pública y pues
+
+1121
+00:39:44,980 --> 00:39:46,460
+habilitar en este caso lo que
+
+1122
+00:39:46,520 --> 00:39:47,820
+tiene que ver con la prohibición
+
+1123
+00:39:47,900 --> 00:39:48,820
+del artículo ciento veintiocho
+
+1124
+00:39:48,900 --> 00:39:49,920
+de la Constitución Política de
+
+1125
+00:39:50,000 --> 00:39:51,400
+Colombia. Entonces desde lo que
+
+1126
+00:39:51,460 --> 00:39:52,800
+acaba lo que hemos eh
+
+1127
+00:39:52,860 --> 00:39:54,160
+reseñado previamente pues se
+
+1128
+00:39:54,180 --> 00:39:55,640
+ha presentado en el expediente
+
+1129
+00:39:55,720 --> 00:39:58,120
+la fuente diversa de los
+
+1130
+00:39:58,180 --> 00:39:59,680
+reconocimientos pensionales que
+
+1131
+00:39:59,760 --> 00:40:03,360
+ostentarían en este momento los
+
+1132
+00:40:03,420 --> 00:40:06,460
+eh sucesores o de Francisco
+
+1133
+00:40:06,520 --> 00:40:09,060
+Antonio Arenas Aragón
+
+1134
+00:40:09,120 --> 00:40:13,060
+particularmente pues su hijo
+
+1135
+00:40:17,140 --> 00:40:23,380
+su hijo Francisco Javier
+
+1136
+00:40:23,460 --> 00:40:25,400
+y se encuentra soporte para la
+
+1137
+00:40:25,460 --> 00:40:26,860
+reclamación de porvenir
+
+1138
+00:40:26,940 --> 00:40:28,240
+relacionada con declarar
+
+1139
+00:40:28,300 --> 00:40:30,040
+ineficacia a la afiliación de
+
+1140
+00:40:30,100 --> 00:40:34,440
+Francisco Antonio Arenas Aragón
+
+1141
+00:40:34,500 --> 00:40:38,520
+y eh en consecuencia pues la
+
+1142
+00:40:38,580 --> 00:40:41,680
+revocatoria de decisiones que
+
+1143
+00:40:41,740 --> 00:40:42,720
+soportan el reconocimiento
+
+1144
+00:40:42,780 --> 00:40:46,520
+pensional que actualmente es
+
+1145
+00:40:46,580 --> 00:40:48,220
+disfrutado por Francisco Javier
+
+1146
+00:40:48,280 --> 00:40:49,360
+Arenas Fonseca en esa medida
+
+1147
+00:40:49,420 --> 00:40:51,260
+pues se negarán las eh se
+
+1148
+00:40:51,340 --> 00:40:54,180
+condenarán en costas a la
+
+1149
+00:40:54,240 --> 00:40:58,180
+excepción planteada por la parte
+
+1150
+00:40:58,240 --> 00:41:02,180
+demandada que se nominó
+
+1151
+00:41:02,260 --> 00:41:07,160
+derecho a doble asignación
+
+1152
+00:41:07,220 --> 00:41:09,220
+pensional se negarán en
+
+1153
+00:41:09,300 --> 00:41:11,220
+consecuencia la totalidad de las
+
+1154
+00:41:11,300 --> 00:41:14,200
+pretensiones de la demanda eh
+
+1155
+00:41:14,260 --> 00:41:17,200
+elevadas por eh por venir
+
+1156
+00:41:17,260 --> 00:41:19,200
+dentro de este procedimiento
+
+1157
+00:41:19,260 --> 00:41:21,200
+frente a las eh se condenarán
+
+1158
+00:41:21,260 --> 00:41:22,200
+a lo dispuesto en el artículo
+
+1159
+00:41:22,260 --> 00:41:23,200
+tres sesenta y cinco el código
+
+1160
+00:41:23,260 --> 00:41:25,200
+eh general del proceso para
+
+1161
+00:41:25,280 --> 00:41:26,200
+efecto de la fijación de
+
+1162
+00:41:26,280 --> 00:41:28,200
+agencias en derecho el despacho
+
+1163
+00:41:28,280 --> 00:41:30,200
+se atiene a lo dispuesto en el
+
+1164
+00:41:30,280 --> 00:41:31,220
+acuerdo P.C.A. dieciséis diez
+
+1165
+00:41:31,280 --> 00:41:34,220
+cinco cinco cuatro del año dos
+
+1166
+00:41:34,280 --> 00:41:36,220
+mil dieciséis esta norma nos
+
+1167
+00:41:36,280 --> 00:41:37,220
+indica pues que para efecto de
+
+1168
+00:41:37,280 --> 00:41:38,220
+la fijación de agencias en
+
+1169
+00:41:38,280 --> 00:41:40,220
+derecho de tenerse en cuenta la
+
+1170
+00:41:40,280 --> 00:41:44,220
+complejidad del trámite el
+
+1171
+00:41:44,280 --> 00:41:47,220
+desgaste particular del mismo
+
+1172
+00:41:47,300 --> 00:41:48,220
+y que para los procesos de
+
+1173
+00:41:48,300 --> 00:41:50,220
+primera instancia naturaleza
+
+1174
+00:41:50,220 --> 00:41:53,160
+declarativa pues debe fijarse
+
+1175
+00:41:53,220 --> 00:41:54,160
+atendiendo al monto de la
+
+1176
+00:41:54,220 --> 00:41:55,160
+cuantía en unos guarismos que
+
+1177
+00:41:55,220 --> 00:41:56,160
+son establecidos en el artículo
+
+1178
+00:41:56,220 --> 00:41:58,160
+cinco de esa normativa frente a
+
+1179
+00:41:58,240 --> 00:41:59,160
+la primera instancia se hace
+
+1180
+00:41:59,240 --> 00:42:01,180
+una distinción en esa eh norma
+
+1181
+00:42:01,240 --> 00:42:03,180
+frente a procesos de menor y de
+
+1182
+00:42:03,240 --> 00:42:05,180
+mayor cuantía en el caso
+
+1183
+00:42:05,240 --> 00:42:06,180
+particular pues atendiendo a
+
+1184
+00:42:06,240 --> 00:42:08,180
+lo que señaló la parte
+
+1185
+00:42:08,240 --> 00:42:10,180
+demandante al momento de
+
+1186
+00:42:10,240 --> 00:42:11,180
+radicar la demanda que sus
+
+1187
+00:42:11,240 --> 00:42:12,180
+reclamaciones eran superiores a
+
+1188
+00:42:12,240 --> 00:42:13,180
+los cien salarios mínimos legales
+
+1189
+00:42:13,240 --> 00:42:15,180
+mensuales vigentes encontraría
+
+1190
+00:42:15,260 --> 00:42:16,180
+el despacho que se aproxima más
+
+1191
+00:42:16,260 --> 00:42:17,180
+a lo que tiene que ver con un
+
+1192
+00:42:17,260 --> 00:42:19,180
+proceso de mayor cuantía
+
+1193
+00:42:19,180 --> 00:42:21,120
+entonces los procesos de menor
+
+1194
+00:42:21,180 --> 00:42:23,120
+cuantía son los que en el código
+
+1195
+00:42:23,180 --> 00:42:24,120
+general del proceso están
+
+1196
+00:42:24,180 --> 00:42:26,120
+establecidos para los que tienen
+
+1197
+00:42:26,180 --> 00:42:27,120
+como reclamaciones las que
+
+1198
+00:42:27,180 --> 00:42:29,120
+oscilan entre los cuarenta y los
+
+1199
+00:42:29,200 --> 00:42:31,120
+ciento cincuenta salarios de
+
+1200
+00:42:31,200 --> 00:42:32,120
+mínimos legales mensuales
+
+1201
+00:42:32,200 --> 00:42:35,140
+vigentes y dado su proximidad a
+
+1202
+00:42:35,200 --> 00:42:36,140
+los ciento cincuenta salarios
+
+1203
+00:42:36,200 --> 00:42:39,140
+mínimos eh se acudirá a lo que
+
+1204
+00:42:39,200 --> 00:42:40,140
+se establece para procesos de
+
+1205
+00:42:40,200 --> 00:42:42,140
+mayor cuantía eh atendiendo que
+
+1206
+00:42:42,200 --> 00:42:43,140
+en materia laboral no hay esa
+
+1207
+00:42:43,200 --> 00:42:44,140
+distinción de procesos de menor
+
+1208
+00:42:44,200 --> 00:42:46,140
+cuantía y de mayor cuantía sino
+
+1209
+00:42:46,200 --> 00:42:47,140
+únicamente procesos de única
+
+1210
+00:42:47,200 --> 00:42:48,140
+instancia y primera instancia
+
+1211
+00:42:48,140 --> 00:42:50,080
+los que superan los veinte
+
+1212
+00:42:50,140 --> 00:42:51,080
+salarios mínimos legales
+
+1213
+00:42:51,140 --> 00:42:52,080
+mensuales vigentes en esa
+
+1214
+00:42:52,140 --> 00:42:54,080
+medida pues se fijará como
+
+1215
+00:42:54,140 --> 00:42:56,080
+agencias en derecho un tres
+
+1216
+00:42:56,140 --> 00:42:57,080
+por ciento de lo que señaló la
+
+1217
+00:42:57,140 --> 00:42:58,080
+parte demandante que eran sus
+
+1218
+00:42:58,140 --> 00:43:00,080
+reclamaciones dentro del
+
+1219
+00:43:00,160 --> 00:43:03,080
+proceso tenemos que la demanda
+
+1220
+00:43:03,160 --> 00:43:07,100
+se radicó según el acta
+
+1221
+00:43:07,160 --> 00:43:08,100
+individual de reparto durante
+
+1222
+00:43:08,160 --> 00:43:13,100
+el archivo diecisiete del de la
+
+1223
+00:43:13,160 --> 00:43:15,100
+demanda de la del expediente el
+
+1224
+00:43:15,160 --> 00:43:16,100
+once enero del año dos mil
+
+1225
+00:43:16,100 --> 00:43:21,040
+veintidós así las cosas
+
+1226
+00:43:21,100 --> 00:43:23,040
+atendiendo a que para el año
+
+1227
+00:43:23,100 --> 00:43:26,040
+dos mil veintidós las eh o el
+
+1228
+00:43:26,100 --> 00:43:28,040
+salario mínimo legal mensual
+
+1229
+00:43:28,100 --> 00:43:33,040
+vigente se estableció en un
+
+1230
+00:43:33,120 --> 00:43:36,040
+millón de pesos
+
+1231
+00:43:47,100 --> 00:43:50,040
+se reconocerían como agencias
+
+1232
+00:43:50,100 --> 00:43:51,040
+en derecho tres millones de
+
+1233
+00:43:51,100 --> 00:43:54,040
+pesos eh atendiendo que
+
+1234
+00:43:54,100 --> 00:43:55,040
+corresponde pues al tres por
+
+1235
+00:43:55,100 --> 00:43:56,040
+ciento de lo que manifestó la
+
+1236
+00:43:56,100 --> 00:43:57,040
+parte demandante que eran sus
+
+1237
+00:43:57,100 --> 00:43:59,040
+reclamaciones eh decía en el
+
+1238
+00:43:59,100 --> 00:44:00,040
+escrito introductorio que
+
+1239
+00:44:00,120 --> 00:44:01,040
+superaban los cien salarios
+
+1240
+00:44:01,120 --> 00:44:02,040
+mínimos legales mensuales
+
+1241
+00:44:02,120 --> 00:44:05,040
+vigentes eh atendiendo lo
+
+1242
+00:44:05,120 --> 00:44:06,060
+expuesto del juzgado primero
+
+1243
+00:44:06,120 --> 00:44:08,060
+laboral de circuito de la ciudad
+
+1244
+00:44:08,120 --> 00:44:10,060
+de Tonja administrando justicia
+
+1245
+00:44:10,120 --> 00:44:11,060
+en nombre de la república de
+
+1246
+00:44:11,120 --> 00:44:12,060
+Colombia y poratoria de la ley
+
+1247
+00:44:12,620 --> 00:44:17,080
+este es el
+
+1248
+00:44:35,040 --> 00:44:37,000
+¿He pronto? Entonces, en
+
+1249
+00:44:37,080 --> 00:44:39,040
+primer lugar, declarar probada
+
+1250
+00:44:39,040 --> 00:44:44,480
+que denomina a la parte demandada como doble derecho a doble asignación
+
+1251
+00:44:44,480 --> 00:44:48,400
+pensional según lo que se expuso en la parte emotiva de esta reclamación. En
+
+1252
+00:44:48,400 --> 00:44:53,840
+segundo lugar, en consecuencia, negar la totalidad de las pretensiones
+
+1253
+00:44:55,160 --> 00:44:59,120
+negar la totalidad de las pretensiones de la demanda elevadas por porvenir. En
+
+1254
+00:44:59,120 --> 00:45:04,280
+tercer lugar, en consecuencia, condenar en costas a la parte demandante
+
+1255
+00:45:04,280 --> 00:45:08,680
+las cuales se dedicarán por secretaría, según dispone el artículo 365, 366 del
+
+1256
+00:45:08,680 --> 00:45:12,400
+Código General del Proceso, se fija como agencias en derecho la suma de tres
+
+1257
+00:45:12,400 --> 00:45:17,720
+millones de pesos según lo expuesto en la parte emotiva de esta decisión.
+
+1258
+00:45:17,720 --> 00:45:20,760
+Como cuarto, pues se precisa que esta decisión es susceptible de recurso de
+
+1259
+00:45:20,760 --> 00:45:26,000
+apelación, según dispone el artículo 66 del Código Procesal del Trabajo y de la
+
+1260
+00:45:26,000 --> 00:45:29,520
+Seguridad Social. Finalmente, como quinto, pues se
+
+1261
+00:45:29,520 --> 00:45:33,440
+precisa que una vez o se ordena que una vez ejecutoriada esta decisión se
+
+1262
+00:45:34,280 --> 00:45:39,440
+dejan las constancias de rigor. Esta decisión queda notificada en
+
+1263
+00:45:39,440 --> 00:45:45,080
+Estados parte de demandantes. Muchas gracias, señoría. Bueno, de conformidad
+
+1264
+00:45:45,080 --> 00:45:49,880
+con el proyecto procesal establecido en el llamentado artículo 66 del Código
+
+1265
+00:45:49,880 --> 00:45:52,320
+Procesal del Trabajo y de la Seguridad Social, me permite presentar recurso a
+
+1266
+00:45:52,320 --> 00:45:56,640
+apelación y encontrarle la decisión adoptada por su despacho el día de hoy.
+
+1267
+00:45:56,720 --> 00:46:04,080
+Un recurso, pues, que procedo, señoría, parte de demandada.
+
+1268
+00:46:08,080 --> 00:46:12,320
+Gustavo, ¿sí, señoría? Sí, gracias, señor.
+
+1269
+00:46:12,320 --> 00:46:15,040
+Sin recurso, señoría, conformo con su decisión.
+
+1270
+00:46:15,040 --> 00:46:19,640
+Reconcilio la palabra a la poderada la parte demandante para que proceda a sustentar su recurso.
+
+1271
+00:46:19,640 --> 00:46:25,040
+Muchas gracias, señor juez. Bueno, el recurso de apelación en este momento
+
+1272
+00:46:25,200 --> 00:46:31,680
+está encaminado a que el Honorable Tribunal Superior Plícito Judicial de Tunjas al Laboral
+
+1273
+00:46:33,680 --> 00:46:39,360
+estudie nuevamente los presupuestos que se presentaron con el escrito de la demanda
+
+1274
+00:46:39,360 --> 00:46:48,080
+específicamente ante la incompatibilidad de estos dos tipos de pensiones que
+
+1275
+00:46:48,080 --> 00:46:53,480
+curían el mismo riesgo de su señoría teniendo en cuenta que no puede alegarse una aprobación
+
+1276
+00:46:53,480 --> 00:46:56,680
+de una expectativa legítima cuando la misma se origina, un error de la administración,
+
+1277
+00:46:56,680 --> 00:47:02,400
+como ya se había mencionado en este caso de porvenir, y no puede generar un derecho,
+
+1278
+00:47:02,400 --> 00:47:06,560
+como en el caso de más anterior, teniendo en cuenta que la inadvertencia o el error de la
+
+1279
+00:47:06,560 --> 00:47:10,520
+AFP en la etapa inicial de la vinculación del afiliado al raíz no subsano la ausencia
+
+1280
+00:47:10,520 --> 00:47:15,120
+de requisitos exigidos por la ley prata al fin. Eso es tener en cuenta que el error no es fuente
+
+1281
+00:47:15,120 --> 00:47:20,000
+formal de derecho, como también ya se ha manifestado en la oportunidad procesal correspondiente y desde
+
+1282
+00:47:20,000 --> 00:47:23,120
+este punto de vista, el W, que invirtió de la protección inherente al sistema pensional en
+
+1283
+00:47:23,120 --> 00:47:29,200
+Colombia, las AFPs del raíz corrijen en cualquier tiempo los errores que podían haber incurrido ante
+
+1284
+00:47:29,200 --> 00:47:34,080
+la incompatibilidad de estos dos pensiones. Si bien es cierto que en el asunto de Marlas,
+
+1285
+00:47:34,080 --> 00:47:38,800
+el error nuevamente afiliado contaba inicialmente con los requisitos para que quienes demostraran
+
+1286
+00:47:38,800 --> 00:47:44,200
+derecho a su cónyuge, compañero permanente, hijos menores o hijos inválidos reclamaran
+
+1287
+00:47:44,200 --> 00:47:49,440
+una pensión de sobreviviente, esto es el requisito de 50 semanas en los últimos 3 años previos a su
+
+1288
+00:47:49,440 --> 00:47:54,320
+exceso. No es menos importante tener en cuenta que el afiliado omitió de manera dolosa a la AFP por
+
+1289
+00:47:54,320 --> 00:47:58,440
+venir sobre su condición de pensionado por vejez y que dicho reconocimiento estaba en cabeza del
+
+1290
+00:47:58,440 --> 00:48:02,400
+entonces seguro social hoy con el pensión, lo cual indiscutiblemente viciaba su afiliación al
+
+1291
+00:48:02,400 --> 00:48:09,440
+raíz toda vez que por expreso mandato, que es lo que se busca perseguir su señoría en el curso de
+
+1292
+00:48:09,440 --> 00:48:17,080
+este proceso y lo que se busca dar aplicación al expreso mandato de la norma principal en esta
+
+1293
+00:48:17,080 --> 00:48:24,160
+materia. Le dicen de 1993 en su artículo 61 donde expresamente se excluye del régimen de
+
+1294
+00:48:24,160 --> 00:48:31,200
+ahorro de individual con solidaridad a dos tipos de poblaciones, más específicamente para el caso
+
+1295
+00:48:31,200 --> 00:48:37,760
+del señor Arenas, la contenían en el literal B de este artículo 61 que nos habla de las personas
+
+1296
+00:48:37,760 --> 00:48:43,440
+que le entraron en vigencia al sistema, tuvieran 55 años o más de edad, 50 años de edad o más,
+
+1297
+00:48:43,600 --> 00:48:47,440
+son mujeres, salvo que decían cotizar por lo menos 500 semanas en el régimen,
+
+1298
+00:48:48,160 --> 00:48:51,960
+caso en el cual será obligatorio para el empleador efectuar los aportes correspondientes.
+
+1299
+00:48:53,040 --> 00:48:58,040
+Cabe notar que dicha incompatibilidad radica en que el derecho estaba en cabeza de la misma persona,
+
+1300
+00:48:58,040 --> 00:49:01,680
+es decir, del señor Francisco Antonio Arenas Aragón, lo que nos pone frente a la menta de
+
+1301
+00:49:01,680 --> 00:49:05,480
+incompatibilidad y lo que nos lleva a manifestar que por lo dicho por lo honorable corte constitucional
+
+1302
+00:49:05,480 --> 00:49:09,240
+en cuanto a la compatibilidad de estas pensiones, radica en que cada una de esas se encuentre
+
+1303
+00:49:09,240 --> 00:49:12,960
+cabeza de diferentes afiliados y no del mismo afiliado por la misma contingencia en diferentes
+
+1304
+00:49:12,960 --> 00:49:17,320
+regímenes pensionales. Si bien los tiempos tenidos en cuenta por el reconocimiento pensional son
+
+1305
+00:49:17,320 --> 00:49:21,560
+diferentes en una evidencia entre el reservo probatorio que conoció por las partes, lo cierto
+
+1306
+00:49:21,560 --> 00:49:26,760
+es que lo que aquí se busca discutir es la previsión normativa ya mencionada y contenían
+
+1307
+00:49:26,760 --> 00:49:36,720
+el artículo en el literal B, ya mencionado artículo 61 de la ley 100 de 1993, la cual expresó e indicó
+
+1308
+00:49:36,720 --> 00:49:41,760
+los casos en que excluían a las personas para ser parte del RAIS, a saber, el citado número
+
+1309
+00:49:41,760 --> 00:49:47,880
+segundo nos indica que el hecho de tener más de 55 años a la fecha entrada en vigencia a la ley 100
+
+1310
+00:49:47,880 --> 00:49:59,240
+de 1993, esto es el primer abril del 94 en el caso de los hombres, pues excluía inmediatamente a esta
+
+1311
+00:49:59,240 --> 00:50:05,880
+tipo de población independientemente de que la oferta de financiación de estas pensiones fuera
+
+1312
+00:50:05,880 --> 00:50:13,760
+posterior, fueran diferentes que pena. Situación que no fue informada en su momento o en su
+
+1313
+00:50:13,760 --> 00:50:17,760
+oportunidad por el señalario nasa laguna al momento de ofrecer porvenir a unas habiendas que ya
+
+1314
+00:50:17,760 --> 00:50:22,640
+contaba con una pensión leve, es reconocida por el entonces SIS, hoy colpensiones, entonces
+
+1315
+00:50:22,640 --> 00:50:30,920
+reiterando su señoría, el recurso de apelación va encaminado a que se declaren las pretensiones
+
+1316
+00:50:30,920 --> 00:50:37,800
+inicialmente presentadas con el escrito con el nivel introductorio de demanda, teniendo en cuenta
+
+1317
+00:50:37,800 --> 00:50:42,920
+la prohibición normativa del artículo 61 de la ley 100 de 1993. Muchas gracias.
+
+1318
+00:50:44,920 --> 00:50:48,320
+Ateniéndolo después en el artículo 76 del Código Provisional del Trabajo y de la Seguridad
+
+1319
+00:50:48,320 --> 00:50:52,720
+Social, lo que se exige en esta etapa es exclusivamente un planteamiento conciso de
+
+1320
+00:50:52,720 --> 00:50:56,720
+la inconformidad que ha sido planteado por la Podera o la parte accionante en esa medida
+
+1321
+00:50:56,720 --> 00:51:00,760
+pues se concede recurso de apelación para entrelazar la decisión laboral del Tribunal
+
+1322
+00:51:00,760 --> 00:51:06,680
+Superior del Distrito Judicial de Tunja. Por secretaria se dispondrá la remisión del expediente
+
+1323
+00:51:06,680 --> 00:51:13,080
+con ese propósito. El efecto sus efectos suspensivos según dispone esta normativa,
+
+1324
+00:51:13,080 --> 00:51:16,640
+no siendo otro el objeto de esta audiencia, terminamos siendo las 10 y 52 minutos de la
+
+1325
+00:51:16,640 --> 00:51:21,000
+mañana. Le agradezco a las partes apoderados a distancia y suspendemos el registro. Muchas
+
+1326
+00:51:21,000 --> 00:51:24,000
+gracias, señor juez. Muchas gracias. Muy buen día. Muchas gracias.
+
+1327
+00:51:24,000 --> 00:51:26,280
+Ustedes que tengan el gusto de día, gracias.
+
